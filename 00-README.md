@@ -16,7 +16,9 @@
 - [08-character-nox.md](08-character-nox.md) — мастер-промпт идентичности NOX (мужская половина)
 - [09-character-nox-nano-banana.md](09-character-nox-nano-banana.md) — адаптированный промпт NOX под Nano Banana
 - [10-voice-profiles-suno.md](10-voice-profiles-suno.md) — фиксация голосов Мии и NOX в Suno (Personas + style + tags)
-- [11-track-01-sled.md](11-track-01-sled.md) — Трек 01 "СЛЕД" (дуэт, открывашка)
+- [11-track-01-sled.md](11-track-01-sled.md) — Трек "СЛЕД" (эпизод 6, финал, дуэт, post-punk)
+- [12-track-02-pervaya-tishina.md](12-track-02-pervaya-tishina.md) — Трек "ПЕРВАЯ ТИШИНА" (эпизод 2, Мия соло, modern alt-metal)
+- [13-album-story-bible.md](13-album-story-bible.md) — Полный сценарий EP: мир, персонажи, 6 эпизодов, мотивы
 
 ## Текущий статус
 

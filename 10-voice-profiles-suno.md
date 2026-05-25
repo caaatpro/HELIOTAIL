@@ -26,6 +26,12 @@ Persona фиксирует тембр, вибрато, общую характе
 
 ---
 
+## Жанровая база проекта
+
+Проект HELIOTAIL пишется в **modern progressive alt / theatrical alt-metal** русле — Sleep Token, Loathe, Spiritbox (clean parts), Bad Omens, Bring Me The Horizon POST HUMAN era. Голоса оптимизированы под динамику этого жанра: **интимный куплет с dry close-mic → soaring full voice в припеве со стеной гитар**. Это влияет на профили — Мия и NOX должны уметь обе крайности, не только одну.
+
+---
+
 ## Voice Profile — MIYA
 
 **Suno Persona ID:** `MIYA_v1` (создать после отбора canonical-трека)
@@ -33,30 +39,31 @@ Persona фиксирует тембр, вибрато, общую характе
 ### Style-промпт (вставлять в каждый трек)
 
 ```
-Female vocalist, mid-20s, Russian language lyrics. Breathy mezzo-soprano with
-controlled alto delivery. Intimate close-mic timbre, slightly fragile.
-Melancholic, restrained, never belted. Subtle controlled vibrato. Slight rasp
-in lower register, clear and airy in upper. Cold studio reverb, very dry on
-verses, wider on chorus. Faint digital glitch artifacts on consonants like
-analog corruption. Russian post-punk meets dark synth-pop aesthetic. Reference
-feel: Aigel, Hadn Dadn, Sky Ferreira, Lykke Li dark era.
+Female vocalist, mid-20s, Russian language lyrics. Mezzo-soprano with rich alto
+foundation. Two-mode delivery for modern alt-metal: (1) intimate restrained
+close-mic in verses — almost spoken-sung, fragile, dry; (2) soaring full voice
+in choruses with layered harmonies, cinematic and emotional, no screams.
+Subtle controlled vibrato. Slight rasp in lower register, clear and powerful in
+upper. Cold studio reverb, very dry on verses, wider stadium-like on choruses.
+Modern theatrical alt-metal aesthetic in the vein of Sleep Token (female
+counterpart), Spiritbox (clean parts), Loathe female vocals. Russian language.
 
-Avoid: belting, opera, autotune warble, child-like brightness, american accent,
-cheerful tone, rap delivery.
+Avoid: belting beyond cinematic alt range, opera, autotune warble, child-like
+brightness, american accent, cheerful tone, rap delivery, screams, growls.
 ```
 
 ### Краткая версия (если место в поле жёстко лимитировано)
 
 ```
-Female RU vocalist, breathy melancholic alto, intimate close-mic, subtle vibrato,
-dark synth-pop, cold dry reverb, faint digital glitch on consonants. No belting,
-no autotune.
+Female RU vocalist, dual-mode: intimate dry close-mic in verses, soaring layered
+choruses. Modern alt-metal (Sleep Token / Spiritbox clean). No autotune,
+no screams, no rap.
 ```
 
 ### Lyrics tag
 
 ```
-[Female voice — Miya, breathy alto, intimate close-mic, restrained]
+[Female voice — Miya, intimate restrained verse / soaring layered chorus]
 ```
 
 ---
@@ -68,60 +75,71 @@ no autotune.
 ### Style-промпт (вставлять в каждый трек)
 
 ```
-Male vocalist, late 20s, Russian language lyrics. Baritone with mid-low chest
-voice. Restrained, weighted, slightly haunted delivery. Smoky timbre with
-occasional vocal fry. Whispered verses, controlled fullness in chorus, sometimes
-sprechgesang spoken-sung delivery. Slightly more distant mic than female vocal.
-Subtle low-end resonance. Cold studio reverb, dry on verses. Russian post-punk
-darkwave aesthetic. Reference feel: Molchat Doma vocalist, Boy Harsher (male),
-Ic3peak male parts, early Хадн дадн.
+Male vocalist, late 20s, Russian language lyrics. Baritone with strong upper
+extension to tenor. Two-mode delivery for modern alt-metal: (1) intimate
+restrained close-mic in verses — weighted, almost spoken, slight rasp; (2)
+soaring full voice in choruses with layered harmonies, cinematic and emotional,
+no screams. Modern theatrical alt-metal aesthetic in the vein of Sleep Token
+(Vessel), Loathe (clean parts), Bad Omens (Noah Sebastian clean). Russian
+language. Slightly more distant mic than female vocal for duo contrast.
 
-Avoid: bright tenor, growling, screaming, rap delivery, american accent,
-boy-band brightness, aggressive belting.
+Avoid: bright tenor pop, growling, screaming, rap delivery, american accent,
+boy-band brightness, harsh vocals, opera, autotune warble.
 ```
 
 ### Краткая версия
 
 ```
-Male RU vocalist, weighted baritone, smoky vocal fry, whispered verses,
-sprechgesang, darkwave, cold dry reverb, slight low-end resonance. No tenor,
-no growl, no rap.
+Male RU vocalist, dual-mode: weighted intimate verse, soaring layered chorus.
+Modern alt-metal (Sleep Token Vessel / Bad Omens clean). No screams, no growls,
+no rap, no autotune.
 ```
 
 ### Lyrics tag
 
 ```
-[Male voice — Nox, weighted baritone, whispered/spoken delivery]
+[Male voice — Nox, weighted intimate verse / soaring layered chorus]
 ```
 
 ---
 
 ## Дуэтные треки — voice profile
 
-Когда поют вместе — Suno часто либо делает один голос громче, либо смешивает в неузнаваемое. Лечится явной разметкой.
+Когда поют вместе — Suno часто либо делает один голос громче, либо смешивает в неузнаваемое. Лечится явной разметкой + жанровой опорой на theatrical layering (Sleep Token, Loathe).
 
 ### Style-промпт для дуэта
 
 ```
-Duet between female and male Russian vocalists in dark synth-pop / darkwave style.
-Female: breathy melancholic alto, intimate close-mic (Miya).
-Male: weighted baritone, smoky vocal fry, whispered delivery (Nox).
+Duet between female and male Russian vocalists in modern progressive alt /
+theatrical alt-metal (Sleep Token, Loathe, BMTH POST HUMAN).
+Female (Miya): intimate restrained close-mic in verses, soaring full voice in
+chorus with layered harmonies.
+Male (Nox): weighted intimate close-mic in verses, soaring full voice in chorus
+with layered harmonies.
 Both voices keep their individual character — do not blend into one timbre.
 Female slightly panned left, male slightly panned right.
-Harmonies in chorus: female on melody, male a third below.
-Cold studio reverb on both, dry verses, wider chorus. Subtle digital glitch
-artifacts on both voices. No autotune warble, no belting, no rap.
+Harmonies in chorus: female on melody, male a third below, choir-style stacks
+in final chorus for theatrical lift.
+Verses dry close-mic with sparse instrumentation. Choruses wide cinematic
+reverb with wall of distorted guitars. Bridge: total instrumental drop, dry
+intimate vocals only.
+No autotune warble, no belting beyond cinematic range, no rap, no screams or
+growls.
 ```
 
 ### Lyrics tags для дуэта
 
 ```
-[Verse — Female voice, Miya, breathy alto]
+[Verse — Female voice, Miya, intimate restrained]
 текст Мии
-[Verse — Male voice, Nox, weighted baritone]
+[Verse — Male voice, Nox, weighted intimate]
 текст Нокса
-[Chorus — Duet, both voices, harmony, Miya on melody, Nox third below]
+[Chorus — Duet, both voices, layered harmonies, Miya melody, Nox third below]
 общий припев
+[Final Chorus — Duet, choir-style stacks, theatrical peak]
+финальный припев
+[Bridge — Both voices, dry intimate, instruments out]
+диалог в мосте
 ```
 
 ---
