@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls \"C:/Users/a.rudykh/.claude/projects/c--Users-a-rudykh-Downloads-Miya/memory/\")",
+      "Read(//c/Users/a.rudykh/.claude/projects/c--Users-a-rudykh-Downloads-Miya/memory/**)",
+      "WebSearch"
+    ]
+  }
+}
