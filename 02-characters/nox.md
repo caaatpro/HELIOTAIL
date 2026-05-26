@@ -2,7 +2,7 @@
 
 Мужская половина дуэта HELIOTAIL. Зеркало Мии: те же якоря, но отзеркаленные стороны, контрастный glow (violet vs cyan).
 
-> Версия для Nano Banana — в [09-character-nox-nano-banana.md](09-character-nox-nano-banana.md).
+> Версия для Nano Banana — в [nox-nano-banana.md](./nox-nano-banana.md).
 > Имя рабочее. Альтернативы: VEX, RYO, ASH.
 
 ## Концепт пары

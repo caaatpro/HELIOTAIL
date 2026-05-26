@@ -1,6 +1,6 @@
 # Библиотека сцен — Мия
 
-20 типовых сцен для обложек, соцсетей, клипов. Использовать с reference image эталона (см. [05-nano-banana-workflow.md](05-nano-banana-workflow.md)).
+20 типовых сцен для обложек, соцсетей, клипов. Использовать с reference image эталона (см. [nano-banana-workflow.md](./nano-banana-workflow.md)).
 
 ## Шаблон базового промпта
 

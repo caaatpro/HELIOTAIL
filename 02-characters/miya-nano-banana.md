@@ -1,6 +1,6 @@
 # Мия — промпт под Nano Banana (Gemini 2.5 Flash Image)
 
-Адаптированная версия мастер-промпта из [01-character-miya.md](01-character-miya.md).
+Адаптированная версия мастер-промпта из [miya.md](./miya.md).
 Nano Banana хуже ест "промпт-простыни" из тегов и сильнее реагирует на естественный язык + reference image.
 
 ## Промпт для генерации эталона (canonical portrait)
@@ -37,7 +37,7 @@ This is Miya. Generate a new image of the same exact character — same face,
 same eyes, same hair, same vertical seam on her left cheek, same thin black
 cable behind her right ear, same cyan glowing veins. Keep her exact identity.
 
-New scene: [описание сцены — см. 06-scene-library.md]
+New scene: [описание сцены — см. ../05-visuals/scene-library.md]
 
 Maintain: hyper-realistic cinematic photography style, dark synthwave atmosphere,
 deep navy blue + cyan + magenta color palette, moody lighting.
@@ -85,4 +85,4 @@ cinematic film grain, 8K detail.
 - **Multi-image input** — давай два референса для сложных сцен: лицо Мии + референс освещения/локации.
 - **Возвращайся к canonical** — если идентичность поплыла за несколько итераций, всегда стартуй с эталонного портрета, а не последней генерации. Иначе ошибки накапливаются.
 
-См. полный workflow в [05-nano-banana-workflow.md](05-nano-banana-workflow.md).
+См. полный workflow в [nano-banana-workflow.md](../05-visuals/nano-banana-workflow.md).

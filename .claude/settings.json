@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mv 04-tracks 04-albums && mkdir -p 04-albums/01-khvost-9 && mv 04-albums/*.md 04-albums/01-khvost-9/ && mv 01-concept/03-album-story-bible.md 04-albums/01-khvost-9/story-bible.md && ls -R 04-albums/ && echo \"---\" && ls -R 01-concept/)"
+    ],
+    "additionalDirectories": [
+      "/Users/caaat/git/HELIOTAIL/04-albums"
+    ]
+  }
+}

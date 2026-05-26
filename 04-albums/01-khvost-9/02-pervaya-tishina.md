@@ -38,7 +38,8 @@ Chorus 2 returns full wall. Bridge: total drop to dry intimate vocal-only
 delivery (Sleep Token-style breakdown to silence). Final chorus: peak intensity
 with heavy theatrical drop on "ты не вернёшься". Outro: ambient fade to static.
 No autotune, no electronic dance feel, no rap, no American accent, no screams
-or growls, no upbeat tone.
+or growls, no upbeat tone, no crowd noise, no audience cheering, no live concert
+atmosphere, no audience sounds, no live recording feel.
 ```
 
 ## Лирика
@@ -179,4 +180,4 @@ or growls, no upbeat tone.
 
 Эта песня — **второй эпизод** в EP HELIOTAIL. Хронологически — сразу после "Разрыва" (эпизод 1, пока не написан) и перед "Передачей" (эпизод 3, NOX соло). Перед СЛЕДОМ (финал, эпизод 6) у Мии будет ещё трек 4 ("Помехи в голове") и совместный фрагмент-помеха 5.
 
-Полная карта эпизодов — в [03-project-concept.md](03-project-concept.md) (будет обновлена).
+Полная карта эпизодов — в [story-bible.md](./story-bible.md).

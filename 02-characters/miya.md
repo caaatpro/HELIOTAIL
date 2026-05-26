@@ -2,7 +2,7 @@
 
 Оригинальный мастер-промпт, который фиксирует идентичность персонажа между генерациями.
 
-> Версия адаптированная под Nano Banana — в [02-character-miya-nano-banana.md](02-character-miya-nano-banana.md).
+> Версия адаптированная под Nano Banana — в [miya-nano-banana.md](./miya-nano-banana.md).
 
 ---
 

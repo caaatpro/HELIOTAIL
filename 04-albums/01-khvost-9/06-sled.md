@@ -36,7 +36,8 @@ guitars and cinematic drums, vocals layered with harmonies. Bridge: total drop
 to dry intimate dialogue between two voices, no instruments. Final chorus: peak
 theatrical intensity with layered choir-like vocal stacks and full instrumental
 wall. Outro: ambient drop to fade. No autotune, no electronic dance feel, no
-rap, no American accent, no screams or growls.
+rap, no American accent, no screams or growls, no crowd noise, no audience
+cheering, no live concert atmosphere, no audience sounds, no live recording feel.
 ```
 
 ## Лирика

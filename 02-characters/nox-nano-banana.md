@@ -1,6 +1,6 @@
 # NOX — промпт под Nano Banana (Gemini 2.5 Flash Image)
 
-Адаптированная версия мастер-промпта из [08-character-nox.md](08-character-nox.md).
+Адаптированная версия мастер-промпта из [nox.md](./nox.md).
 
 ## Промпт для генерации эталона (canonical portrait)
 
@@ -111,7 +111,7 @@ cinematic film grain, 8K detail.
 
 ## Лайфхаки те же, что у Мии
 
-См. [02-character-miya-nano-banana.md](02-character-miya-nano-banana.md) и [05-nano-banana-workflow.md](05-nano-banana-workflow.md). Принципы те же:
+См. [miya-nano-banana.md](./miya-nano-banana.md) и [nano-banana-workflow.md](../05-visuals/nano-banana-workflow.md). Принципы те же:
 - Не перегружать негативами
 - Iterative editing по одному параметру
 - Возвращаться к canonical при дрейфе идентичности

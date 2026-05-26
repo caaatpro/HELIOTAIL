@@ -44,20 +44,23 @@ foundation. Two-mode delivery for modern alt-metal: (1) intimate restrained
 close-mic in verses — almost spoken-sung, fragile, dry; (2) soaring full voice
 in choruses with layered harmonies, cinematic and emotional, no screams.
 Subtle controlled vibrato. Slight rasp in lower register, clear and powerful in
-upper. Cold studio reverb, very dry on verses, wider stadium-like on choruses.
+upper. Cold studio reverb, very dry on verses, wider cinematic hall reverb on
+choruses (studio production, NOT live audience reverb).
 Modern theatrical alt-metal aesthetic in the vein of Sleep Token (female
 counterpart), Spiritbox (clean parts), Loathe female vocals. Russian language.
 
 Avoid: belting beyond cinematic alt range, opera, autotune warble, child-like
-brightness, american accent, cheerful tone, rap delivery, screams, growls.
+brightness, american accent, cheerful tone, rap delivery, screams, growls,
+crowd noise, audience cheering, live concert atmosphere, audience sounds,
+live recording feel.
 ```
 
 ### Краткая версия (если место в поле жёстко лимитировано)
 
 ```
 Female RU vocalist, dual-mode: intimate dry close-mic in verses, soaring layered
-choruses. Modern alt-metal (Sleep Token / Spiritbox clean). No autotune,
-no screams, no rap.
+choruses. Modern alt-metal (Sleep Token / Spiritbox clean). Studio production,
+no live audience. No autotune, no screams, no rap, no crowd noise, no audience.
 ```
 
 ### Lyrics tag
@@ -84,15 +87,16 @@ no screams. Modern theatrical alt-metal aesthetic in the vein of Sleep Token
 language. Slightly more distant mic than female vocal for duo contrast.
 
 Avoid: bright tenor pop, growling, screaming, rap delivery, american accent,
-boy-band brightness, harsh vocals, opera, autotune warble.
+boy-band brightness, harsh vocals, opera, autotune warble, crowd noise,
+audience cheering, live concert atmosphere, audience sounds, live recording feel.
 ```
 
 ### Краткая версия
 
 ```
 Male RU vocalist, dual-mode: weighted intimate verse, soaring layered chorus.
-Modern alt-metal (Sleep Token Vessel / Bad Omens clean). No screams, no growls,
-no rap, no autotune.
+Modern alt-metal (Sleep Token Vessel / Bad Omens clean). Studio production, no
+live audience. No screams, no growls, no rap, no autotune, no crowd noise.
 ```
 
 ### Lyrics tag
@@ -124,7 +128,8 @@ Verses dry close-mic with sparse instrumentation. Choruses wide cinematic
 reverb with wall of distorted guitars. Bridge: total instrumental drop, dry
 intimate vocals only.
 No autotune warble, no belting beyond cinematic range, no rap, no screams or
-growls.
+growls, no crowd noise, no audience cheering, no live concert atmosphere, no
+audience sounds, no live recording feel.
 ```
 
 ### Lyrics tags для дуэта

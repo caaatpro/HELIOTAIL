@@ -19,7 +19,7 @@
 
 ### 1.1. Подготовка
 
-Использовать промпт из [02-character-miya-nano-banana.md](02-character-miya-nano-banana.md), секция "Промпт для генерации эталона".
+Использовать промпт из [miya-nano-banana.md](../02-characters/miya-nano-banana.md), секция "Промпт для генерации эталона".
 
 ### 1.2. Запуск
 
@@ -53,7 +53,7 @@ This is Miya. Generate a new image of the same exact character — same face,
 same eyes, same hair, same vertical seam on her left cheek, same thin black
 cable behind her right ear, same cyan glowing veins. Keep her exact identity.
 
-New scene: [описание сцены — см. 06-scene-library.md]
+New scene: [описание сцены — см. scene-library.md]
 
 Maintain: hyper-realistic cinematic photography style, dark synthwave atmosphere,
 deep navy blue + cyan + magenta color palette, moody lighting.
@@ -61,7 +61,7 @@ deep navy blue + cyan + magenta color palette, moody lighting.
 
 ### 2.2. Подстановка сцены
 
-См. готовые сцены в [06-scene-library.md](06-scene-library.md).
+См. готовые сцены в [scene-library.md](./scene-library.md).
 
 ### 2.3. Итеративная доработка
 
