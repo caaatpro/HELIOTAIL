@@ -1,6 +1,6 @@
 # Track — "ПРЕДЛОЖЕНИЕ"
 
-**Эпизод 2.** Дуэт + голос Программы. Tension build, первая трещина в единстве.
+**Эпизод 2.** Alt-metal duet + голос Программы. Tension build, первая трещина в единстве. Песенная форма с двойным вокалом (СЛОТ-territory).
 
 ## Сцена
 
@@ -20,137 +20,137 @@ Outro — формальный отголосок Программы: «срок
 
 ## Жанр и звук
 
-- **Dark indie alt + cinematic tension build (NOT alt-metal wall).** Ориентиры: **Daughter** «No Care» / «Doing The Right Thing» (тревожный нарастающий мрак с минимальным дисторшеном), **Bon Iver** «33 GOD» (структурный беспокойный мрак), **Olafur Arnalds + JFDR** «Backwards» (камерное напряжение с электроникой), **Sleep Token** restrained tracks (без слэма, контролируемая динамика), **Massive Attack** «Inertia Creeps» (давящий пульс, голоса как часть архитектуры тревоги). Намеренный отказ от стен и слэма.
-- **BPM:** **88** (медленнее Эп.1's 95, более давящий пульс; half-time feel в куплетах, straight 4/4 в припевах и финале)
-- **Тональность:** **E minor с phrygian-инфлексиями** (понижённая 2-ая ступень в куплетах даёт «земля качается под ногами», но базовый тон остаётся E — соническая связь с Эп.1 сохраняется, но климат сразу темнее)
+- **Russian alt-metal / nu-metal duet** с электронными элементами. Ориентиры: **СЛОТ** (двойной вокал Дарии Nookie + Игоря Лобанова — идеальный shape под HELIOTAIL дуэт; мощный мелодический припев, rap-инфлексии в pre-chorus, intimate dialog в bridge), **Linkin Park Hybrid Theory-era** (alt-metal с электроникой и rap-вкраплениями), **Within Temptation / Evanescence** (мелодический женский лидер в alt-metal территории), **Bring Me The Horizon Sempiternal** (mid-weight melodic alt-metal без слэма). Намеренный отказ от dark indie/ambient территории — этот трек должен звучать как **песня** в alt-metal-формате, не как театральный recitative.
+- **BPM:** **88** (давящий пульс, но straight 4/4 в куплетах и припевах; half-time только в bridge)
+- **Тональность:** **E minor с phrygian-инфлексиями** (понижённая 2-я в куплетах даёт «земля качается», базовый E minor сохраняет соническую связь с Эп.1)
 - **Инструментация:**
-  - **Bent leitmotif** — пианинный мотив, рождённый в Эп.1, здесь возвращается **искажённым**: те же 3-4 ноты, но с диссонантным интервалом (одна нота сдвинута на полутон). Символ дома, который **уже не работает как раньше**.
-  - Dark ambient pads (тёмные, чем в Эп.1), slow-evolving textures, sub-bass tense (не drone, а пульсирующий)
-  - **Glockenspiel/celeste** возвращается, но в icy-cold регистре (не icy-warm как в Эп.1)
-  - **Drums** входят со второго куплета (soft kick + tense hi-hat), к финальному припеву — четвертные доли
-  - **Мid-weight melodic дисторшн-гитары** входят только в Chorus 2 и Final Chorus, контролируемые мелодические линии — НЕ стена, НЕ слэм
-  - **TTS-голос Программы** — третий инструмент в треке, bandlimited 300-3500 Гц, без реверба, без человечности
-- **Динамика:** Program TTS intro (6 сек) → bent leitmotif fade-in → half-time intimate V1 (Мия лидирует, NOX echoes через линк-фильтр) → pre-chorus 1 (расширенный 6 строк, нарастающий pad swell, без drums) → restrained chorus 1 (mid-weight, голоса в **slightly диверсном бленде** — впервые НЕ pure center-blend; намёк на трещину) → **Program TTS interlude** (бюрократическое сообщение поверх sustained drone, рождение фразы «Программа не знает имён») → V2 (NOX лидирует, Мия echoes; drums входят soft) → pre-chorus 2 (короткий 4 строки, snap intensity, drums тёснее) → chorus 2 (полнее, mid-weight guitars входят) → **bridge: total drop, link-filter ПАДАЕТ, dry voices alternating, single heavy guitar chord per line с тишиной между** → final chorus (peak weight, full melodic guitars + layered choir-stacks обоих, bent leitmotif возвращается) → outro: Program TTS «срок ответа» over silence → dead air cut
-- **Длина:** ~4:45
+  - **Mid-weight melodic дисторшн-гитары** — присутствуют **через весь трек** (не только в припевах), мелодические линии, не стена. Чуть тяжелее в припевах.
+  - **Hard-hitting drums** — входят сразу с intro, прямые 4/4, kick + snare driven. К bridge — drop. К final chorus — peak.
+  - **Programmed electronic sub-bass** — пульсирующий, тревожный, не drone (как в indie-версии), а **бит-определяющий**
+  - **Dark cinematic pads** — slow-evolving textures под всем
+  - **Bent leitmotif** — пианинный мотив из Эп.1 возвращается **искажённым** (одна нота сдвинута на полутон) — но теперь как **glockenspiel sample вкраплениями**, не основной инструмент. Слышен в intro, interlude, final chorus.
+  - **TTS-голос Программы** — третий «инструмент», bandlimited 300-3500 Гц, без реверба, кибер-холодный
+- **Вокальная структура (важно — это СЛОТ-формат, не диалог):**
+  - **V1: Мия ведёт полный мелодический куплет** (full lead, 8 строк), NOX подключается **backing-гармониями на акцентах** (последние слова строк, ключевые фразы)
+  - **V2: NOX ведёт полный мелодический куплет** (full lead, 8 строк), Мия backing на акцентах
+  - **Pre-chorus 1**: Мия лидирует, **может в rap-инфлексии** (Nookie-style — ритмически акцентированная подача), NOX подключается на финальной строке
+  - **Pre-chorus 2**: дуэт, snap, тесно
+  - **Припевы**: **оба голоса вместе**, мелодический мощный hook, sing-along энергия
+  - **Bridge**: **dialog-секция** (единственное место с alternation через строку), dry voices, без фильтра, single heavy chord per line с тишиной между. Это СЛОТ-приём — intimate moment в середине тяжёлого трека.
+- **Динамика:** Program TTS intro (3 sec) → heavy beat drops с гитарами (3-12 sec) → V1 Мия full lead (mid-weight throughout) → P1 build с possible rap-инфлексией → mighty Chorus 1 → Program TTS interlude (no rhythm) → V2 NOX full lead → P2 snap → Chorus 2 → bridge total drop → Final Chorus peak → outro TTS cut to silence
+- **Длина:** ~4:40
 
 ## Style для Suno (compact, copy-paste в поле Style)
 
 ```
-Dark indie alt + cinematic tension build (NOT alt-metal wall). 88 BPM
-E minor with phrygian inflections. Half-time verses, 4/4 choruses.
-Russian male+female duet — voices slightly diverge from center
-(first cracks in unity). TTS-cyber Program voice intrudes as cold
+Russian alt-metal duet with nu-metal/electronic influence (mid-weight,
+NOT heavy wall, NOT slam). 88 BPM E minor with phrygian inflections,
+straight 4/4 verses and choruses. Male + female lead vocals: female
+leads verse 1 with optional rap-inflected pre-chorus (aggressive
+accented phrasing), male leads verse 2, both unite in big melodic
+sing-along chorus hook. TTS-cyber Program voice intrudes as cold
 bureaucratic announcements (bandlimited 300-3500 Hz, no reverb).
 
-Alternating dry close-mic duet, tense pad swells, sparse bent
-glockenspiel leitmotif (icy-cold, one warped note in phrase),
-mid-weight melodic guitars ONLY in choruses (NOT wall, NOT slam).
-Dark ambient pads, pulsing sub-bass, soft drums grow from verse 2.
-Soft bandlimit on echo voice in verses, DROPS completely in bridge.
+Mid-weight melodic distorted guitars throughout (NOT wall, NOT slam),
+hard-hitting drums from intro, programmed electronic sub-bass pulses,
+dark cinematic pads, bent glockenspiel leitmotif sample in intro and
+final chorus (icy-cold, one warped note in phrase).
 
-Intro: Program TTS over drone, then bent piano enters. Bridge: total
-drop, dry voices, single heavy chord per line with silence. Outro:
-cut to dead air after final chord.
+Intro: Program TTS over rising sub-bass, then heavy beat drops with
+guitars. Bridge: total drop to dry intimate dialog voices, single
+heavy chord per line with silence between, no filter. Outro: cut to
+dead air after final chord.
 
 Studio production. NO autotune, screams, growls, crowd, live
-audience, American accent, stadium wall, upbeat, bright.
+audience, American accent, stadium wall, ambient indie, lo-fi.
 ```
 
 ## Exclude Styles (copy-paste в поле Exclude Styles в More Options)
 
 ```
-heavy distortion wall, blast drums, slap bass, cheery synth, bright pad, pop strings, shred guitar, lead guitar solo, stadium wall, dance, EDM, gang vocals, gospel choir, festive harmonies, campy harmonies, pop doubling, crowd, audience, cheering, live recording, room ambience, applause, sing-along, festival, arena, autotune, screams, growls, rap, American accent, upbeat, happy, major key, bright, party
+heavy wall, blast drums, slap bass, cheery synth, bright pad, pop strings, shred guitar, stadium wall, EDM, gang vocals, gospel choir, festive harmonies, campy harmonies, pop doubling, crowd, audience, cheering, live recording, room ambience, applause, sing-along sports, festival, arena, autotune, screams, growls, rap battle, American accent, upbeat, happy, major key, bright, party, ambient indie, lo-fi bedroom, voice memo, dry acoustic singer-songwriter
 ```
 
 ## Лирика (compact, copy-paste в Lyrics field Suno)
 
 ```
-[Intro — Program TTS bursts in, no music 0-3 sec, then dark sub-bass drone fades in 3-6 sec, then BENT leitmotif piano enters]
+[Intro — Program TTS (0-3 sec), then heavy beat drops with mid-weight guitars and hard drums at 3 sec]
 [Program] Программа гелиосферных исследований. Условия миссии Гелиос.
 
-[Verse 1 — F lead, half-time, sparse, link-filter on M echo from within F's reverb]
-[F] Они уже сказали
-[M] Я слышу
-[F] Гелиопауза, один корабль
-[M] Я считал
-[F] Двенадцать лет туда
-[M] Минимум
-[F] И никогда обратно
-[M] Это часть условий
-[F] Это часть нас
-[M] Это часть всего
+[Verse 1 — F lead full melodic verse, M backing harmonies on line endings, mid-weight guitars, hard drums 4/4]
+Они говорят что выбор всё ещё за нами
+Двенадцать лет туда и никогда обратно
+Они уже посчитали — без нашего голоса
+Они уже выбрали — без нашего согласия
+В их таблицах мы только пара цифр
+В их параметрах нас нет
+Они говорят — решайте сами
+А уже сказали — за нас
 
-[Pre-chorus 1 — duet, tense pad swell rising, NO drums]
-Мы можем сказать нет
-Нас никто не заставит
-Мы можем встать и уйти
+[Pre-chorus 1 — F lead with optional rap-inflected aggressive phrasing, M joins on last line, drums build]
+Мы можем встать и сказать нет
 Никто нас не остановит
-И мы будем всю жизнь знать
-Что могли
+Мы можем уйти и закрыть дверь
+Никто нас не догонит
+Только мы будем всю жизнь знать
+Что могли — и не сделали
 
-[Chorus 1 — duet, voices slightly diverge from center (NOT pure center-blend), mid-weight, NO heavy guitars yet]
-Это выбор который не выбор
-Это вопрос на который один ответ
+[Chorus 1 — BOTH voices unite, big melodic sing-along hook, peak guitars and drums]
+Это выбор не наш
+Это вопрос с одним ответом
 Если не мы — никто
 Если не сейчас — никогда
-Это выбор который не выбор
+Это выбор не наш
 И мы оба знаем
 И мы оба молчим
 
 [Program TTS interlude — bandlimit voice over held drone, NO rhythm, NO music build]
-[Program] Параметры миссии. Один пилот в капсуле. Нейро-связанная единица. Программа не знает имён. Пара двенадцать-альфа. Срок ответа: семьдесят два часа.
+[Program] Параметры миссии. Один пилот в капсуле. Программа не знает имён. Пара двенадцать-альфа. Срок ответа: семьдесят два часа.
 
-[Verse 2 — M lead, F echoes via link-filter from within M's reverb, SOFT drums enter]
-[M] Никто другой не подойдёт
-[F] Я знаю
-[M] Этот сигнал ждёт двадцать лет
-[F] Кого-то
-[M] Кого-то — это мы
-[F] Это не значит что мы
-[M] Программа уже посчитала
-[F] Программа не считает нас
-[M] Двенадцать-альфа
-[F] Это никто
-[M] Это они так видят
-[F] А ты видишь как
-[M] Я вижу нас
+[Verse 2 — M lead full melodic verse, F backing harmonies on line endings, beat returns]
+Никто другой такого не сможет
+Никто другой не услышит сигнал
+Этот пакет шёл двадцать лет от края
+К нам — потому что больше не к кому
+Они называют нас по идентификатору
+Они не помнят как нас зовут
+Но кто-то должен полететь туда
+И кроме нас сейчас — никого
 
-[Pre-chorus 2 — duet, drums tighter, snap intensity, SHORTER 4 lines]
+[Pre-chorus 2 — duet, snap intensity, drums tighter, SHORTER 4 lines]
 Мы можем сказать нет
 Но это будет ложью
 Мы уже выбрали
 Мы просто молчим
 
-[Chorus 2 — duet, fuller drums, mid-weight melodic guitars enter (NOT wall)]
-Это выбор который не выбор
-Это вопрос на который один ответ
+[Chorus 2 — BOTH voices unite, fuller arrangement than chorus 1]
+Это выбор не наш
+Это вопрос с одним ответом
 Если не мы — никто
 Если не сейчас — никогда
-Это выбор который не выбор
+Это выбор не наш
 И мы оба знаем
 И мы оба молчим
 
-[Bridge — TOTAL DROP, link-filter falls away, both voices DRY, single slow heavy guitar chord per line with silence between]
+[Bridge — TOTAL DROP, intimate dialog moment, both voices DRY without filter, single slow heavy guitar chord per line with silence between]
 [F] Скажи что мы не согласимся
 [M] Я не могу так сказать
 [F] Скажи что есть другой путь
 [M] Ты сама знаешь
-[F] Я не хочу знать
-[M] Это не уходит
 [F] Один из нас уйдёт навсегда
 [M] Один из нас останется
-[F] Это не выбор
-[M] Это не выбор
+Это не выбор
+Это не выбор
 
-[Final Chorus — peak weight, full melodic guitars NOT wall, layered choir-stacks of both voices, bent leitmotif returns on glockenspiel]
-Это выбор который не выбор
-Это вопрос на который один ответ
+[Final Chorus — BOTH voices, peak weight, layered choir-stacks, melodic guitars fuller, bent leitmotif glockenspiel returns]
+Это выбор не наш
+Это вопрос с одним ответом
 Если не мы — никто
 Если не сейчас — никогда
-Это выбор который не выбор
+Это выбор не наш
 И мы оба знаем
 И мы оба молчим
-И мы оба молчим
+Мы оба молчим
 
 [Outro — silence after final chord, then Program TTS over dead air, cut to silence]
 [Program] Срок ответа: семьдесят два часа.
@@ -186,92 +186,100 @@ heavy distortion wall, blast drums, slap bass, cheery synth, bright pad, pop str
 
 | Секция | Длина | Что звучит |
 |---|---|---|
-| Intro | 0:00–0:15 | Program TTS (0-3) → sub-bass drone fade-in (3-6) → bent leitmotif piano (6-15), без drums, без голосов пары |
-| Verse 1 | 0:15–1:00 | Мия-лидер, NOX echoes из её reverb через soft link-filter, half-time, sparse, sub-bass + bent piano |
-| Pre-chorus 1 | 1:00–1:25 | Дуэт, расширенный 6 строк, tense pad swell, BEZ drums |
-| Chorus 1 | 1:25–2:00 | Дуэт в **slightly диверсном бленде** (не pure center, первая трещина), mid-weight, soft drums появляются на 4/4 |
-| **Program TTS interlude** | **2:00–2:25** | **Бюрократическое сообщение Программы поверх held drone, рождение фразы «Программа не знает имён», без rhythm** |
-| Verse 2 | 2:25–3:00 | NOX-лидер, Мия echoes из его reverb, soft drums + pulsing sub-bass, argument-counterargument |
-| Pre-chorus 2 | 3:00–3:15 | Snap intensity, drums тёснее, **короткий 4 строки** (асимметрия с Pre-chorus 1) |
-| Chorus 2 | 3:15–3:50 | Полнее, mid-weight melodic guitars входят (НЕ стена), drums четвертные доли |
-| **Bridge** | **3:50–4:15** | **TOTAL DROP, link-filter падает, dry voices, single heavy guitar chord per line, тишина между репликами** |
-| Final Chorus | 4:15–4:45 | Peak weight, full melodic guitars + layered choir-stacks обоих, bent leitmotif на glockenspiel returns |
-| Outro | 4:45–5:00 | **Dead air → Program TTS «срок ответа: семьдесят два часа» → cut to silence** (собирается в DAW) |
+| Intro | 0:00–0:12 | Program TTS (0-3 sec) → heavy beat drops с mid-weight guitars и hard drums (3-12 sec) |
+| Verse 1 | 0:12–0:55 | **Мия full melodic lead**, NOX backing-гармонии на акцентах, guitars + drums throughout |
+| Pre-chorus 1 | 0:55–1:18 | **Мия лидирует, опционально в rap-инфлексии (Nookie-style)**, NOX подключается на финальной строке, drums build |
+| Chorus 1 | 1:18–1:45 | **ОБА голоса вместе**, big melodic sing-along hook, peak guitars и drums |
+| **Program TTS interlude** | **1:45–2:05** | **Cold protocol announcement Программы поверх held drone, рождение фразы «Программа не знает имён», NO rhythm** |
+| Verse 2 | 2:05–2:48 | **NOX full melodic lead**, Мия backing-гармонии на акцентах, beat возвращается |
+| Pre-chorus 2 | 2:48–3:00 | Duet, snap intensity, drums тёснее, **короткий 4 строки** |
+| Chorus 2 | 3:00–3:28 | **ОБА голоса**, fuller arrangement |
+| **Bridge** | **3:28–3:55** | **TOTAL DROP, intimate dialog (единственное место с alternation через строку), dry voices без фильтра, single heavy chord per line с тишиной между** |
+| Final Chorus | 3:55–4:30 | **ОБА голоса**, peak weight, layered choir-stacks обоих, bent leitmotif glockenspiel returns |
+| Outro | 4:30–4:40 | **Dead air → Program TTS «срок ответа: семьдесят два часа» → cut to silence** (собирается в DAW) |
 
 ## Главный ход трека
 
 **Архитектурная функция:**
-- **Первая трещина в единстве пары.** В Эп.1 их голоса жили в pure center-blend как одна сущность. Здесь — впервые **slightly diverging** в припевах. Не L/R, не явная sterео-разводка — а едва заметное расхождение тембра/позиции, которое слух регистрирует как «что-то не так». Это **главный sonic-signature** трека.
-- **Бридж — единственное место в треке, где они снова в полном единстве** — потому что link-filter падает, и они говорят dry voice-to-voice. Парадокс: они **спорят**, но в этот момент они **ближе всего**. Это **звуковая правда** трека: настоящая близость возможна только когда они полностью убирают линк-обработку.
-- **Программа как третий инструмент.** TTS-голос не диегетический звук «откуда-то снаружи» — он структурно вплетён в трек: intro, interlude (после chorus 1), outro. Программа не просто говорит — она **диктует архитектуру трека**. Время Программы (семьдесят два часа) — не их время.
-- **Bent leitmotif как символ дома, который сломан.** Пианинный мотив из Эп.1 здесь возвращается с **одной диссонантной нотой**. Слух узнаёт мотив (это их дом) и одновременно ловит, что **что-то не так**. Намеренно используем тот же мотив, потому что они **думают о доме** — но дом уже не звучит как раньше. Этот приём ляжет в основу всего EP: лейтмотив **деградирует** к Эп.6, где будет почти неузнаваем.
-- **Драматургическая инновация — argument vs counter-argument в куплетах.** В Эп.1 куплеты были «они работают вдвоём как один организм». Здесь — V1 Мия аргументирует против миссии, V2 NOX аргументирует за. Это **первый раз в обоих альбомах**, когда они **держат разные стороны**. Слушатель видит, что их единство — не «нет различий», а «различия есть, но обычно сглажены».
-- **Phrygian-инфлексии** (понижённая 2-я в E minor) — единственное место в проекте с этим ладом. Даёт ощущение «земля качается», но не уходит из E minor (соническая связь с Эп.1 сохранена). Phrygian — традиционный лад для тревоги, неопределённости, восточно-средиземноморской трагедии. Для греческой трагедии (которой по сути является ГЕЛИОС EP) — уместно.
+- **Песенная форма с двойным вокалом (СЛОТ-territory)** — не recitative-театр. Каждый куплет ведёт **один лидер полноценной мелодической линией**, второй подключается backing-гармониями. Альтернация на уровне куплетов (V1 Мия, V2 NOX), не на уровне строк. Это даёт треку **вокальный flow**, которого не было бы в диалоговом формате.
+- **Argument-counterargument на уровне куплетов**, не строк. V1 — Мия аргументирует против миссии (восемь мелодических строк сопротивления). V2 — NOX аргументирует за (восемь мелодических строк рациональности). Каждый имеет **полную вокальную позицию**, не обмен короткими репликами. Это первый раз в обоих альбомах, когда они **держат разные стороны полноценно**.
+- **Bridge как единственная dialog-секция** — намеренный приём. Через весь трек песенная форма с лидером на куплет; в bridge — total drop, dry voices, фрагментированный диалог. Это **СЛОТ-приём** (intimate dialogue moments в середине тяжёлых треков). Парадокс: они спорят, но в этот момент они **ближе всего**, потому что линк-фильтр падает.
+- **Sing-along chorus как hook трека.** Припев должен быть **запоминаемым с первого прослушивания** — мощный, мелодический, оба голоса в унисон. «Это выбор не наш» — главный hook, должен ложиться на язык. Это центральный sonic-signature трека: после двух разных аргументов в куплетах — единая мысль в припеве.
+- **Pre-chorus 1 — потенциальная rap-инфлексия от Мии (Nookie-style)** как контраст к мелодике куплета. Это опционально (Suno может не вытянуть), но если получится — даст треку **узнаваемую СЛОТ-эстетику**. Pre-chorus 2 наоборот — snap, тесный, без rap. Контраст между двумя pre-chorus подчёркивает эскалацию.
+- **Программа как третий «инструмент»** — TTS-голос вплетён в архитектуру трека (intro, interlude после Chorus 1, outro). Не диегетический звук «снаружи», а структурный элемент.
+- **Bent leitmotif** — пианинный мотив из Эп.1 возвращается **искажённым** (одна нота на полутон) — но теперь как **glockenspiel sample вкраплениями** (intro и final chorus), не основной инструмент. В alt-metal территории мотив звучит как **flashback** к тёплому миру Эп.1, который теперь сломан. Этот приём ляжет в основу всего EP: лейтмотив **деградирует** к Эп.6.
+- **Phrygian-инфлексии** (понижённая 2-я в E minor) — единственное место в проекте с этим ладом. Даёт ощущение «земля качается», но не уходит из E minor (соническая связь с Эп.1). Phrygian — традиционный лад для тревоги, восточно-средиземноморской трагедии. Для греческой трагедии (ГЕЛИОС EP по сути является ею) — уместно.
 
 **Драматургическая функция:**
 - **Трек должен играть как непреодолимая внешняя сила** — не как их решение. Они **уступают**, не **выбирают**. Активный выбор будет в Эп.3 (там решают **кто из них** идёт). Здесь — пассивное согласие с условиями, которое уже произошло до конца трека, но проговаривается всю длительность.
-- **Якорная фраза припева:** *«Это выбор который не выбор»* — суть Sophie's Choice. Формально выбор есть. По сути — нет, потому что отказ означает жить с тем, что они могли спасти миссию и не сделали этого. Программа знает это. Они знают это. Один знает, что другой знает. Линк делает невозможным самообман.
-- **Рождение якорной фразы «Программа не знает имён»** — здесь она звучит **впервые** в проекте, в устах самой Программы, как бюрократическая нейтральность. NOX не подхватывает её в этом треке (намеренно — он использует «двенадцать-альфа» как описание факта, но не повторяет «не знает имён»). В Альбоме 1 (ТРАНСЛЯЦИЯ → СЛЕД) эта фраза вернётся в его устах как **осознанная горечь**. Здесь — семя.
-- **Бридж «Один из нас уйдёт навсегда / Один из нас останется»** — первое явное проговаривание того, что произойдёт. **Кто** ещё не решено, поэтому симметрия (любой может быть тем или этим). В Эп.3 ВЫБОР симметрия рушится — выбирают NOX. Здесь — равновесие ужаса.
-- **Финальное «Это не выбор / Это не выбор»** в bridge — оба заканчивают на одной и той же фразе. Парадоксально — они снова в унисоне. Но унисон трагический: они согласны в том, что согласие неизбежно.
+- **Якорная фраза припева:** *«Это выбор не наш»* — главный hook. Точнее изначальной «Это выбор который не выбор»: они не **не имеют выбора**, они имеют **чужой выбор**. Программа сделала выбор за них, они только подписывают. Это резонирует с «Программа уже посчитала», «Программа не знает имён», «двенадцать-альфа».
+- **Рождение якорной фразы «Программа не знает имён»** — здесь она звучит **впервые** в проекте, в устах самой Программы, как бюрократическая нейтральность. NOX не подхватывает её в этом треке (намеренно — он использует «двенадцать-альфа», «по идентификатору», но не повторяет «не знает имён»). В Альбоме 1 (ТРАНСЛЯЦИЯ → СЛЕД) эта фраза вернётся в его устах как **осознанная горечь**. Здесь — семя.
+- **Bridge «Один из нас уйдёт навсегда / Один из нас останется»** — первое явное проговаривание того, что произойдёт. **Кто** ещё не решено, поэтому симметрия (любой может быть тем или этим). В Эп.3 ВЫБОР симметрия рушится — выбирают NOX. Здесь — равновесие ужаса.
+- **Финальное «Это не выбор / Это не выбор»** в bridge — оба заканчивают на одной и той же фразе. Парадоксально — они снова в унисоне. Унисон трагический: они согласны в том, что согласие неизбежно.
 
 **Звуковой ход:**
-- **Прогрессия heaviness через трек:** Verse 1 (no drums) → Chorus 1 (soft drums) → V2 (drums established) → Pre-chorus 2 (drums tight) → Chorus 2 (mid guitars enter) → Bridge (drop, single chord) → Final Chorus (peak weight). Это не линейный билд — есть **дроп в бридже** как структурная точка дыхания.
-- **Линк-фильтр в couplets** работает как в Эп.1 (на echo voice), но в **припевах** — голоса **slightly diverge from center**. Это новое поведение: в Эп.1 припевы были pure center-blend (полное единство). Здесь — фракционная стерео-разводка как намёк на трещину.
-- **Bridge — link-filter полностью падает.** Это **первый раз в обоих альбомах**, когда фильтр снят полностью в дуэтной секции. В ХВОСТ-9 фильтр периодически уходил при разрыве (Эп.1 РАЗРЫВ), но это была травма. Здесь — намеренный выбор: «давай поговорим без линка».
-- **TTS Программы — звуковой антагонист.** Если Suno не справится с холодным кибер-голосом (часто пытается сделать живой) — выносить в DAW и обрабатывать вручную через bandlimit + dist + zero reverb.
+- **Heaviness присутствует throughout, не grows from V2** — это alt-metal формат, не tension-build indie. Drums и guitars входят сразу. Эскалация происходит через **layering, choir-stacks, peak в final chorus**, а не через постепенное наращивание базовой плотности.
+- **Bridge — total drop как структурная точка дыхания.** Перед final chorus — полная разрядка: только dry voices и редкие тяжёлые аккорды. После — финальный взрыв с layered choir-stacks. Это СЛОТ-формула.
+- **TTS Программы — звуковой антагонист.** Если Suno не справится с холодным кибер-голосом (часто пытается сделать живой) — выносить в DAW.
 
 ## Хуки (для соцсетей / тизеров)
 
-- "Они уже сказали / Я слышу / Гелиопауза, один корабль"
-- "Двенадцать лет туда / Минимум / И никогда обратно"
-- "Это часть условий / Это часть нас / Это часть всего"
-- "Мы можем сказать нет / Нас никто не заставит / И мы будем всю жизнь знать / Что могли"
-- "Это выбор который не выбор / Это вопрос на который один ответ"
+- "Они говорят что выбор всё ещё за нами / Двенадцать лет туда и никогда обратно"
+- "Они уже посчитали — без нашего голоса / Они уже выбрали — без нашего согласия"
+- "В их таблицах мы только пара цифр / В их параметрах нас нет"
+- "Они говорят — решайте сами / А уже сказали — за нас"
+- "Мы можем встать и сказать нет / Никто нас не остановит" — pre-chorus build
+- "Только мы будем всю жизнь знать / Что могли — и не сделали"
+- **«Это выбор не наш / Это вопрос с одним ответом»** — главный hook припева
 - "Если не мы — никто / Если не сейчас — никогда"
 - "И мы оба знаем / И мы оба молчим"
-- "Программа не знает имён / Пара двенадцать-альфа" — **рождение якорной фразы**
-- "Кого-то — это мы / Это не значит что мы"
-- "Это они так видят / А ты видишь как / Я вижу нас"
+- **«Программа не знает имён / Пара двенадцать-альфа»** — рождение якорной фразы
+- "Никто другой такого не сможет / Никто другой не услышит сигнал"
+- "Они называют нас по идентификатору / Они не помнят как нас зовут"
+- "Но кто-то должен полететь туда / И кроме нас сейчас — никого"
 - "Мы уже выбрали / Мы просто молчим"
 - "Скажи что мы не согласимся / Я не могу так сказать"
-- "Один из нас уйдёт навсегда / Один из нас останется"
-- "Это не выбор / Это не выбор"
-- "Срок ответа: семьдесят два часа"
+- **«Один из нас уйдёт навсегда / Один из нас останется»** — первое проговаривание ужаса
+- "Это не выбор / Это не выбор" — финал bridge
+- "Срок ответа: семьдесят два часа" — холодный outro Программы
 
 Особенно:
-- **«Это выбор который не выбор»** — главный hook трека, формула Sophie's Choice
-- **«Программа не знает имён»** — рождение якорной фразы проекта (в Альбоме 1 — горький рефрен NOX)
-- **«Один из нас уйдёт навсегда / Один из нас останется»** — первое явное проговаривание ужаса; в Эп.3 симметрия рухнет
-- **«И мы оба знаем / И мы оба молчим»** — момент молчаливого согласия линка; их **общая беззвучная капитуляция**
+- **«Это выбор не наш»** — sing-along hook, должен ложиться на язык с первого прослушивания
+- **«Программа не знает имён»** — рождение якорной фразы проекта
+- **«Один из нас уйдёт навсегда / Один из нас останется»** — первое явное называние трагедии; в Эп.3 симметрия рухнет
+- **«В их таблицах мы только пара цифр / В их параметрах нас нет»** — точная формулировка обезличенности
 
 ## Что проверить после первой генерации
 
 - [ ] **Persona MIYA_v1 и NOX_v1** — дуэт, см. [suno-workflow.md](../../03-music/suno-workflow.md) Принцип 3-4
-- [ ] **Vocal Gender toggle = НИ ОДИН** (дуэт с `[F]`/`[M]` тегами)
-- [ ] **Program TTS в intro** — должен звучать **кибер-холодным**, bandlimited, без реверба, без живой эмоции. Если Suno сделала человеческий голос — вырезать и заменить через DAW-TTS (см. Возможные правки)
-- [ ] **Bent leitmotif** — пианинный мотив должен быть **узнаваем** как из Эп.1, но с **одной диссонантной нотой**. Если Suno проигнорировала bent и сделала чистый мотив — пере-генерить с акцентом «WARPED piano motif, ONE dissonant note in the phrase, unsettled feeling». Если совсем не подхватила лейтмотив — fallback: дать Suno сгенерить базовый motif, в DAW заменить ключевую ноту вручную.
-- [ ] **Голоса slightly diverge from center в припевах** — не pure center-blend как в Эп.1. Если Suno поставила голоса в идеальный центр — пере-генерить с явным «voices slightly diverge from perfect center, hint of L/R asymmetry, NOT center-blend». Это **главная sonic-разница** с Эп.1.
-- [ ] **Bridge — link-filter полностью падает.** В bridge оба голоса **dry, без обработки, без фильтра**. Если Suno оставила фильтр на голосах в bridge — пере-генерить с «filter DROPS completely in bridge, dry close-mic voices»
-- [ ] **Bridge — single heavy guitar chord per line с тишиной между.** Не непрерывный поток, а удар-пауза-удар. Если Suno сделала continuous strumming — пере-генерить с «single heavy chord struck per vocal line, silence between, NOT continuous»
-- [ ] **Mid-weight guitars в Chorus 2 и Final Chorus** — controlled мелодические линии, **не стена, не слэм**. Если Suno слэмает — пере-генерить с акцентом «mid-weight controlled melodic guitars, NOT wall, NOT slam»
-- [ ] **Argument-counterargument в куплетах** — Мия лидирует V1 (против), NOX лидирует V2 (за). Если Suno сделала monologue-style без альтернации — добавить «alternating dialogue lines [F] and [M], each line a separate voice»
+- [ ] **Vocal Gender toggle = НИ ОДИН** (дуэт; `[F]`/`[M]` теги в bridge и intro)
+- [ ] **V1 — Мия ведёт полный мелодический куплет**, не альтернация через строку. Если Suno начала делать диалог F-M-F-M через строку — пере-генерить с акцентом «F leads ENTIRE verse 1 as full melodic vocal line, M only adds backing harmonies on line endings/accents»
+- [ ] **V2 — NOX ведёт полный мелодический куплет** (зеркало V1). Та же проверка.
+- [ ] **Припевы — оба голоса в унисон (или плотных гармониях), большой sing-along hook.** Если Suno делает разнесённые голоса L/R или один лидер с тихим бэком — пере-генерить с «BOTH voices unite in chorus as melodic sing-along hook, octave or harmony together NOT separate parts»
+- [ ] **Pre-chorus 1 — Мия может в rap-инфлексии (Nookie-style aggressive accented phrasing).** Если Suno делает обычное мелодическое пение — это **тоже ок** (rap опционален). Если хочется именно rap — пометить жирнее «female lead pre-chorus with rap-inflected aggressive accented spoken-sung delivery, like Russian female rapper in alt-metal»
+- [ ] **Mid-weight guitars throughout (не только в припевах)** — если Suno делает чистые куплеты без гитар — пере-генерить с «mid-weight melodic distorted guitars present in ALL sections except bridge, NOT only choruses»
+- [ ] **Hard drums сразу со старта** — если Suno начинает без drums и грузит постепенно — пере-генерить с «hard-hitting drums enter from intro after Program TTS, present throughout except bridge drop»
+- [ ] **Bridge — total drop, dry voices, dialog.** Это единственное место с alternation через строку. Если Suno продолжает песенный формат в bridge — пере-генерить с «BRIDGE is total drop: drums stop, guitars play single heavy chord per vocal line with silence between, voices DRY dialog without filter»
+- [ ] **Program TTS** в intro и interlude — должен звучать **кибер-холодным**, bandlimited, без реверба. Если Suno сделала человеческий голос — вырезать и заменить через DAW-TTS
 - [ ] **«Программа не знает имён»** в Program TTS interlude — фраза должна **звучать чётко**, разборчиво. Если Suno проглатывает — выносить TTS interlude в DAW отдельно
-- [ ] **Drums progression:** V1 no drums → V2 soft drums → Pre-chorus 2 tight → Chorus 2 mid-weight → Final Chorus peak. Если Suno даёт drums с первой секции или ровные на весь трек — пере-генерить с акцентом «drums GROW progressively, NO drums in verse 1»
-- [ ] **Phrygian-инфлексии в куплетах** — Suno может это проигнорировать (модальная тонкость). Если базовый E minor получается без phrygian колорита — пометить в style «E phrygian inflections in verses (lowered 2nd degree), tense unsettled mode»
+- [ ] **«Это выбор не наш»** — главный hook припева, должен ложиться запоминаемо. Если Suno делает его проходной фразой без выделения — пере-генерить с «chorus opening line is the main hook of the song, melodic and memorable, both voices strong»
+- [ ] **Bent leitmotif glockenspiel** в intro и final chorus — узнаваемая искажённая фигура из Эп.1. Если Suno не подхватила — fallback: добавить вручную в DAW
+- [ ] **Phrygian-инфлексии в куплетах** — Suno может игнорировать. Если базовый E minor без phrygian колорита — добавить «E phrygian mode in verses (lowered 2nd degree), tense unsettled colour»
 - [ ] **Outro — резкий cut в тишину после «семьдесят два часа»**, не fade. Если Suno делает musical fade — генерить без outro и собирать в DAW
-- [ ] **НЕ должно быть:** crowd noise, гроулов, screams, autotune, толпы, live audience, alt-metal стены, upbeat вибы
-- [ ] **Длина ~4:45** — если Suno делает 5:30+, в style жирнее «under 5 minutes total»
+- [ ] **НЕ должно быть:** crowd noise, гроулов, screams, autotune, толпы, ambient indie вибы, lo-fi bedroom (мы из этой территории ушли в alt-metal)
+- [ ] **Длина ~4:40** — если Suno делает 5:30+, в style жирнее «under 5 minutes total»
 
 ## Возможные правки
 
 - Если **Program TTS** Suno делает человеческим — вырезать его секции из Suno output и **заменить на DAW-TTS** (Yandex SpeechKit / ElevenLabs robotic). Это **самый надёжный путь** для голоса Программы.
-- Если **«двенадцать-альфа»** Suno проговаривает невнятно — заменить на «**пара альфа-двенадцать**» (более международный формат) или «**пара L-117**» (читается как letter-number, проще для TTS)
-- Если **bent leitmotif** Suno не подхватила — fallback: убрать в style «warped motif» и в DAW вручную сдвинуть одну ноту в пианинной партии после генерации
-- Если **bridge** оказывается слишком коротким и не успевает прожить — добавить ещё пару строк: «[F] Я не хочу твоего согласия / [M] Я знаю / [F] Тогда почему ты соглашаешься / [M] Потому что согласишься и ты»
-- Если **«Это выбор который не выбор»** Suno интонирует с pop-melodрамой — пере-генерить с «matter-of-fact constatation, NOT melodramatic, NOT soaring». Должно звучать как **констатация факта**, не как страдание
-- Если **slightly diverging voices в припевах** Suno интерпретирует как L/R duet panning — переформулировать: «voices nearly center but with subtle width asymmetry, sense of slight detachment NOT explicit L/R split»
-- Если **Final Chorus** оказывается равен Chorus 2 без лифта — пометить жирнее «layered choir-stacks of both voices in final chorus, bigger but stay melodic NOT wall»
+- Если **«двенадцать-альфа»** Suno проговаривает невнятно — заменить на «**пара альфа-двенадцать**» или «**пара L-117**» (letter-number, проще для TTS)
+- Если **rap-инфлексия в Pre-chorus 1** не получается — оставить обычное мелодическое пение, это работающий fallback (тогда трек становится менее СЛОТ-специфичным, но всё равно alt-metal)
+- Если **V1 куплет** получается слишком длинным мелодически (8 строк — это много) — можно убрать «В их таблицах мы только пара цифр / В их параметрах нас нет» и оставить 6 строк
+- Если **V2 куплет** аналогично — можно убрать «Они называют нас по идентификатору / Они не помнят как нас зовут»
+- Если **bent leitmotif** Suno не подхватила — fallback: убрать из style упоминание и в DAW вручную добавить glockenspiel sample в intro и final chorus
+- Если **bridge** оказывается слишком коротким — добавить пару строк: «[F] Я не хочу твоего согласия / [M] Я знаю / [F] Тогда почему ты соглашаешься / [M] Потому что согласишься и ты»
+- Если **припев «Это выбор не наш»** Suno интонирует с pop-melodрамой или soaring рock-чорусом — пере-генерить с «matter-of-fact declarative tone in chorus hook, NOT soaring stadium chorus, NOT pop melodrama»
+- Если **Final Chorus** оказывается равен Chorus 2 без лифта — пометить жирнее «layered choir-stacks of both voices in final chorus, fuller drums, bent glockenspiel returns»
 - Если **phrygian** не получается — оставить чистый E minor, добавить в style «tense unsettled modal colour with occasional half-step tensions»
 
 ## Связь с альбомным аркой
@@ -279,31 +287,35 @@ heavy distortion wall, blast drums, slap bass, cheery synth, bright pad, pop str
 **Положение в EP:** Эпизод 2 из 6. После [ВДВОЁМ В ГОЛОВЕ](01-vdvoem-v-golove.md) (тёплая база), перед ВЫБОРОМ (Эп.3 — точка невозврата, первый театральный пик).
 
 **Что трек устанавливает / меняет:**
-- **Первая трещина в единстве пары** — звуком (slightly diverging voices в припевах) и драматургией (argument vs counter-argument)
-- **Bent leitmotif** — пианинный мотив дома **впервые искажается**. Это паттерн EP: лейтмотив будет деградировать дальше к Эп.6, где станет почти неузнаваем
+- **Первая трещина в единстве пары** — впервые они держат разные стороны полноценными аргументами (V1 против, V2 за). В Эп.1 был один общий поток мыслей.
+- **Жанровый сдвиг в alt-metal territory** — после warm intimate Эп.1 трек открывает **основное жанровое тело EP** (СЛОТ-territory alt-metal с двойным вокалом). Эп.3-6 будут развивать эту палитру с прогрессией тяжести.
+- **Bent leitmotif** — пианинный мотив дома впервые искажается (теперь как glockenspiel sample в alt-metal контексте, не как основной инструмент). Это паттерн EP: лейтмотив деградирует дальше к Эп.6, где станет почти неузнаваем.
 - **Программа — звуковой антагонист** — впервые появляется в полном объёме (в Эп.1 был только финальный звонок)
 - **Якорная фраза «Программа не знает имён»** — **рождается здесь**, разовьётся в Альбоме 1
 - **Линк-фильтр впервые сознательно падает** в bridge — приём, который будет использоваться в Эп.4 (репетиции одиночества) и Эп.5 (открытые голоса)
-- **Phrygian-инфлексии** — единственное место в проекте с этим ладом, расширяет harmonic palette EP
+- **Phrygian-инфлексии** — единственное место в проекте с этим ладом
 
 **Контраст с Эп.1 — sonic markers:**
+
 | | Эп.1 ВДВОЁМ В ГОЛОВЕ | Эп.2 ПРЕДЛОЖЕНИЕ |
 |---|---|---|
+| Жанр | Intimate indie alt + ambient | **Russian alt-metal duet (СЛОТ-territory)** |
 | BPM | 95 (тёплый пульс) | 88 (давящий) |
 | Тональность | E minor (чистый) | E minor + phrygian (тёмный) |
-| Лейтмотив | warm glockenspiel | bent glockenspiel |
-| Голоса в припевах | pure center-blend | slightly diverging |
+| Лейтмотив | warm glockenspiel (основной) | bent glockenspiel (sample вкраплениями) |
+| Вокал-форма | дуэт переплетённый | **lead-vocal на куплет (V1 Мия full, V2 NOX full)** |
+| Drums | grow к припеву | **hard-hitting throughout** |
+| Guitars | mid-weight в припевах | **mid-weight throughout, peak в финале** |
 | Link-filter | дефолт, не падает | падает в bridge |
 | Третий голос | TTS Программы (outro only) | TTS Программы (intro + interlude + outro) |
-| Гитары | mid-weight в припевах | enter only Chorus 2, peak в Final |
-| Структурная фишка | C-part в 6/8 | argument-counterargument verses + bent leitmotif |
+| Структурная фишка | C-part в 6/8 | Sing-along chorus hook + possible rap pre-chorus |
 | Эмоция | warm | tense |
 
 **Якорные связи с ХВОСТ-9:**
 - **«Программа не знает имён»** → возвращается в ТРАНСЛЯЦИИ и СЛЕДе как горький рефрен NOX
 - **Bent leitmotif** → дальнейшая деградация мотива через весь EP подведёт к версии, которая звучит в bridge РАЗРЫВа (где мотив **полностью ломается** в момент разрыва линка)
 - **«Один из нас уйдёт навсегда»** → буквально происходит в Эп.6 СКОРО ВЕРНУСЬ и через несколько недель в Эп.1 РАЗРЫВ ХВОСТ-9
-- **Слышимая трещина в единстве** (slightly diverging voices) → расширяется к Эп.6 ГЕЛИОСА (голоса физически расходятся в L/R) → становится разрывом в Эп.1 ХВОСТ-9
+- **Слышимая трещина в единстве** (lead-vocal на куплет с разными позициями) → расширяется к Эп.6 ГЕЛИОСА (голоса физически расходятся в L/R) → становится разрывом в Эп.1 ХВОСТ-9
 
 **Драматургическая функция в EP:**
 - **Tension build** — от тёплой базы Эп.1 к точке невозврата Эп.3. Эп.2 — мост: внешняя сила входит, внутреннее единство трескается, решение становится неизбежным
