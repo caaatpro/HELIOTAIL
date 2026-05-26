@@ -2,6 +2,8 @@
 
 Полный путь от Suno до стриминга.
 
+> Для **глубокого post-production гайда** «как сделать AI-трек неотличимым от живого исполнителя» — см. [human-sounding-pipeline.md](human-sounding-pipeline.md): pipeline из 7 шагов, стек free/paid инструментов, step-by-step под bedroom voice-memo, human-имитация, quality check.
+
 ## Этап 1 — Генерация в Suno
 
 - Тариф с коммерческими правами (обязательно — иначе нельзя монетизировать)
