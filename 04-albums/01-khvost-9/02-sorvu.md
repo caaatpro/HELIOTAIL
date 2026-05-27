@@ -14,50 +14,25 @@
 
 ## Жанр и звук
 
-- **Industrial-electronic / dark synth / post-punk fury** (Health, Sleep Token heaviest moments в "Granite", Nine Inch Nails "Wish"-era, ранний Massive Attack агрессивные секции, Crystal Castles brutal energy)
-- **BPM:** ~135 (driving four-on-the-floor с industrial perc, **самый быстрый трек EP** — distinct темп)
+- **Industrial-electronic alt с post-punk drive** (v2 industrial-lite — сохраняет outlier-роль, но без extreme niche-черноты). Референсы для уха (НЕ в Style!): Bring Me The Horizon DARKSIDE, Nine Inch Nails "Hesitation Marks" smoother era, Health softer tracks, Massive Attack атмосферные heavy секции
+- **BPM:** ~120 (driving four-on-the-floor с industrial perc, **самый быстрый трек EP** — distinct темп)
 - **Тональность:** G minor (тёмная, мрачная)
-- **Инструментация:** distorted synth bass как ведущий инструмент (вместо гитар), industrial percussion, mechanical metallic hits, аналоговые synth drones как подложка, sparse distorted guitar stabs только в припеве (не стена — точечные удары). Никакого живого пианино в этом треке — он диегетически "механический", всё электронное и обработанное
-- **Динамика:** жёсткий intro (разрушение, glass smash, машинерия отключается) → tight controlled куплет 1 (Мия half-spoken, в режиме холодной ярости) → пре-припев нарастает synth-bass и industrial drums → **припев слэмает** четыре-на-полу с массивным distorted synth bass, оба слоя голоса Мии в полном открытом vocal с layered harmonies → куплет 2 быстрее, более хаотичный → пре-припев 2 — Мия трещит, повторяет себе мантру → припев 2 ещё плотнее → **bridge — полный дроп**, она одна с dry close-mic, одна признаётся → финальный припев — пиковая интенсивность, indust wall возвращается с двойной плотностью → outro: industrial pulse winds down, её тяжёлое дыхание, один terminal beep, тишина
+- **Инструментация:** gritty distorted synth bass как ведущий инструмент (вместо гитар, но distortion не deathwobble — gritty + музыкальная), industrial percussion + mechanical metallic hits, аналоговые synth drones как подложка, sparse distorted guitar stabs только в припеве (не стена — точечные акценты). **Пианино** появляется **только в bridge** — album leitmotif (3-4 ноты), как сигнал что её industrial-armor треснула в момент самопризнания. В куплетах и припевах пианино нет — трек механический, электронный.
+- **Динамика:** жёсткий intro (разрушение, glass smash, машинерия отключается) → tight controlled куплет 1 (Мия half-spoken, в режиме холодной ярости) → пре-припев нарастает synth-bass и industrial drums → **припев driving slam** четыре-на-полу с массивным gritty synth bass, голос Мии **clean dramatic soaring** с layered harmonies (не yelled — soaring через эмоциональный rasp) → куплет 2 быстрее, более хаотичный → пре-припев 2 — Мия трещит, мантра-самообман → припев 2 плотнее → **bridge — intimate drop с album leitmotif пианино**, sparse felt piano мотив тихо вступает под dry close-mic голос (момент трещины в armor — впервые в треке появляется warmth-инструмент) → финальный припев — slam-wall возвращается с двойной плотностью (повторная попытка маскировки) → outro: pulse winds down, её тяжёлое дыхание, один terminal beep, тишина
 - **Длина:** ~3:30 (короткий, плотный, не растягивается — ярость не должна выдыхаться)
 
-## Style-промпт для Suno
+## Style-промпт для Suno (lowercase run-on, ~960 chars — лимит 1000)
+
+> Формат: lowercase, comma-separated, run-on, без точек. **Имена артистов НЕ использовать** — подтверждено эмпирически 2026-05-28: Suno фильтрует имена даже в lowercase run-on формате ("Artist name 'nine inch nails' replaced — We don't reference artists directly"). Только descriptive vibe terms.
 
 ```
-Industrial-electronic dark synth track in the vein of Health most aggressive
-moments, Nine Inch Nails "Wish"-era industrial, Massive Attack heavy sections,
-Sleep Token "Granite" intensity but synth-driven not guitar-driven. Tempo ~135
-BPM, four-on-the-floor industrial drums with mechanical metallic percussion,
-G minor. Heavy distorted synth bass as lead instrument INSTEAD of distorted
-guitars. Analog synth drones as atmospheric foundation. Sparse distorted guitar
-stabs ONLY in chorus accents — not a wall, surgical hits. Russian-language
-female solo vocalist Miya: cold seething half-spoken delivery in verses (dry
-close-mic, controlled but boiling), full-throated open chorus with layered
-harmonies and slight rasp at the edge — passionate yelled singing at the
-ceiling but NOT metal screams or growls. Verse 1 tight and controlled, building.
-Pre-chorus: synth bass pulse enters, drums accelerate. Chorus 1: industrial slam
-with massive distorted synth bass, four-on-the-floor kick, mechanical
-percussion, full open female vocal with layered harmonies, surgical guitar
-stabs on accents. Verse 2 faster more frantic, breath shorter. Pre-chorus 2
-tight, almost broken. Chorus 2 heavier with more layers. Bridge: total
-instrumental drop to dry intimate close-mic vocal only, brief moment of
-self-confession. Final chorus: peak intensity with doubled industrial wall and
-layered choir-style female vocal stacks. Outro: industrial pulse winding down,
-heavy breathing close-mic, single terminal beep, silence. STUDIO BOOTH
-recording, ASMR-close mic on verses, ONE singer, ISOLATED vocal track, no
-other voices. Bedroom production aesthetic on intimate sections.
+industrial-electronic alt with post-punk drive, modern theatrical alt-rock intensity, 120 bpm four-on-the-floor driving drums + mechanical metallic percussion, g minor, gritty distorted synth bass as LEAD instrument not guitars, analog synth drones, sparse distorted guitar stabs only on chorus accents surgical hits, russian-language female solo vocalist miya, cold seething half-spoken verses dry close-mic controlled but boiling, clean dramatic soaring chorus layered self-harmonies slight emotional rasp NOT screams, chorus driving slam massive synth bass mechanical kick + perc, bridge intimate drop dry close-mic vocal with sparse felt piano motif entering quietly under, breath audible, final chorus doubled wall choir-style stacks, outro pulse winds down heavy breathing mechanical beep, diegetic destruction intro glass smash terminal kill, studio booth ASMR close-mic ONE singer ISOLATED
 ```
 
 ## Exclude Styles (отдельное поле в Suno More Options)
 
 ```
-crowd, audience, cheering, applause, live recording, live concert, room
-ambience, sing-along, festival, arena, choir of strangers, group vocals,
-multiple singers, backing chorus of others, second voice, male vocal,
-autotune warble, rap, American accent, screams, growls, harsh vocals,
-death metal, deathcore, metalcore breakdowns, dubstep wobble, EDM drop,
-acoustic guitar, country, upbeat happy tone, cheerful, bright major key,
-boy-band brightness, opera, jazz vocals, R&B melisma
+crowd, audience, cheering, applause, live recording, live concert, room ambience, sing-along, festival, arena, choir of strangers, group vocals, multiple singers, backing chorus, second voice, male vocal, autotune warble, rap, American accent, screams, growls, harsh vocals, death metal, deathcore, metalcore breakdowns, dubstep wobble, EDM drop, acoustic guitar, country, upbeat happy tone, cheerful, bright major key, boy-band brightness, opera, jazz vocals, R&B melisma
 ```
 
 ## Лирика
@@ -70,9 +45,9 @@ boy-band brightness, opera, jazz vocals, R&B melisma
 Я разбираю
 Я выдёргиваю кабели
 Один за другим
-Это твой стул
-Это твоя кружка
-Это твой код доступа
+Это твой почерк
+Это твой запах
+Это твоё имя на мох губах
 Я стираю всё
 
 [Pre-chorus 1 — Miya, synth bass pulse enters, industrial drums build]
@@ -80,14 +55,14 @@ boy-band brightness, opera, jazz vocals, R&B melisma
 Потом разорву себя
 Так быстрее
 Так чище
-Так чище
+Так не больно
 
 [Chorus 1 — Miya, FULL-THROATED open vocal with layered harmonies, industrial slam with massive distorted synth bass, four-on-the-floor kick, mechanical percussion, surgical guitar stabs on accents]
-Сорви с меня всё
+Сорву с себя всё
 Что осталось от тебя
 Я не хочу нести
 Я не хочу хранить
-Сорви с меня всё
+Сорву с себя всё
 Я хочу быть пустой
 Слышишь
 Я хочу быть пустой
@@ -95,52 +70,52 @@ boy-band brightness, opera, jazz vocals, R&B melisma
 [Verse 2 — Miya, faster more frantic, breath shorter, voice trembling on the edge of control]
 Я ломаю архив
 Я стираю записи
-Я переписываю код станции
-На код без приёмников
+Я перерезаю провода
+Связи больше нет
 Если ты вернёшься
-Тебе некуда возвращаться
+Я тебя не услышу
 Я тебя сделала
 Чужим
 
-[Pre-chorus 2 — Miya, tight almost broken, mantra-repetition with title wordplay (СОРВУ = action vs не сорвусь = state)]
-Я не сорвусь
-Я не сорвусь
-Я не сорвусь
+[Pre-chorus 2 — Miya, tight almost broken, escalating self-lies → command to repeat → defensive loop back to top (cyclical mantra of self-deception)]
+Я в порядке
+Мне не больно
+Меня тут нет
 Скажи это ещё раз
-Я не сорвусь
+Я в порядке
 
 [Chorus 2 — same hook, more layered, heavier, more peak]
-Сорви с меня всё
+Сорву с себя всё
 Что осталось от тебя
 Я не хочу нести
 Я не хочу хранить
-Сорви с меня всё
+Сорву с себя всё
 Я хочу быть пустой
 Слышишь
 Я хочу быть пустой
 
-[Bridge — TOTAL DROP, all instruments out, only Miya's dry intimate close-mic, breath audible, almost tender then sharp]
+[Bridge — INTIMATE DROP: industrial instruments out, sparse felt piano motif quietly enters (album leitmotif, 3-4 notes — first warmth-instrument of the track, signals her industrial armor cracking), Miya's dry intimate close-mic over it, breath audible, almost tender then sharp]
 Я не злюсь на тебя
 Я злюсь
 Что не могу разозлиться
 Я делаю это
 Чтобы хоть что-то делать
 Это лучше
-Чем сидеть
-Чем сидеть и думать
+Чем слушать
+Чем слушать и думать
 Что ты не вернёшься
 
 [Final Chorus — slammed back, peak intensity, doubled industrial wall, layered choir-style stacks of Miya, full theatrical fury]
-Сорви с меня всё
+Сорву с себя всё
 Что осталось от тебя
 Я не хочу нести
 Я не хочу хранить
-Сорви с меня всё
+Сорву с себя всё
 Я хочу быть пустой
 Я хочу быть пустой
-Я хочу быть пустой
-Пустой
-Пустой
+Уже пустая
+Пустая
+Пустая
 
 [Outro — industrial pulse winds down to single drone, Miya's heavy breathing close-mic for three seconds, one mechanical terminal beep, silence]
 ```
@@ -152,18 +127,18 @@ boy-band brightness, opera, jazz vocals, R&B melisma
 | Intro | 0:00–0:15 | Diegetic glass smash + terminal kill + industrial pulse начинается |
 | Verse 1 | 0:15–0:50 | Synth drone + dry close-mic seething vocal |
 | Pre-chorus 1 | 0:50–1:05 | Synth bass pulse входит, drums accelerate |
-| Chorus 1 | 1:05–1:35 | **Industrial slam**: четыре-на-полу, massive distorted synth bass, layered open vocal |
+| Chorus 1 | 1:05–1:35 | **Driving slam**: четыре-на-полу, gritty synth bass, clean dramatic soaring vocal с layered harmonies |
 | Verse 2 | 1:35–2:05 | Быстрее, хаотичнее, голос ближе к срыву |
-| Pre-chorus 2 | 2:05–2:20 | Mantra "я не плачу", tight almost broken |
+| Pre-chorus 2 | 2:05–2:20 | Лестница самообмана с петлёй ("в порядке / не больно / меня тут нет"), tight almost broken |
 | Chorus 2 | 2:20–2:45 | Indust wall возвращается плотнее |
-| Bridge | 2:45–3:05 | **Полный дроп**, dry close-mic, self-confession |
+| Bridge | 2:45–3:05 | **Intimate drop + album leitmotif пианино**, dry close-mic, self-confession (момент трещины в industrial armor) |
 | Final Chorus | 3:05–3:25 | **Пиковая интенсивность**, doubled wall, choir-stacks Мии |
 | Outro | 3:25–3:30 | Industrial wind-down, breathing, terminal beep, silence |
 
 ## Главный ход трека
 
 **Архитектурная функция:**
-- СОРВУ — **жанровый whiplash сразу после РАЗРЫВа**. Слушатель после кульминационного alt-metal крика РАЗРЫВа ждёт mid-tempo grief track. Получает industrial banger в другой тональности (G minor против B minor), в другом темпе (135 против 95), на другой инструментальной палитре (synth bass вместо distorted guitar). Это структурный сигнал: альбом будет менять режим каждый эпизод.
+- СОРВУ — **жанровый whiplash сразу после РАЗРЫВа**. Слушатель после кульминационного alt-metal крика РАЗРЫВа ждёт mid-tempo grief track. Получает industrial-electronic alt-banger в другой тональности (G minor против B minor), в другом темпе (120 против 95), на другой инструментальной палитре (synth bass вместо distorted guitar). Это структурный сигнал: альбом будет менять режим каждый эпизод.
 - СОРВУ — **ярость как защитный механизм**. Это зеркало к ТРАНСЛЯЦИИ (Эп.3, NOX): оба не хотят чувствовать, оба выбирают разные способы убежать. Она через разрушение, он через бодрое отрицание. Когда слушатель попадает в ТРАНСЛЯЦИЮ и слышит бодрый synth-pop, он узнаёт механизм — это второй вариант той же защиты.
 - В bridge впервые в EP звучит **самопризнание** ("Я делаю это чтобы хоть что-то делать"). До этого момента все треки — это действия и состояния, без метарефлексии. Это первая трещина к принятию, которое полностью развернётся в СЛЕДе.
 
@@ -173,31 +148,31 @@ boy-band brightness, opera, jazz vocals, R&B melisma
 
 **Звуковой ход:**
 - Distorted **synth bass вместо distorted гитар** — главный приём, который отделяет СОРВУ от остального альбома. Все остальные треки опираются на гитарную палитру (РАЗРЫВ — стена, ТРАНСЛЯЦИЯ v2 — synth-pop, ФРАГМЕНТ — alt-rock с электронкой, СЛЕД — theatrical стена). СОРВУ — единственный, где гитар почти нет, только surgical stabs на акцентах.
-- Темп 135 — **самый быстрый темп EP**. Все остальные треки между 80-104. Это создаёт sonic outlier — слушатель сразу слышит, что это другая страница альбома.
+- Темп 120 — **самый быстрый темп EP**. Все остальные треки между 95-115. Это создаёт sonic outlier — слушатель сразу слышит, что это другая страница альбома.
 - Four-on-the-floor industrial kick — танцевальный паттерн, но в гневной интерпретации. Намёк на то, что разрушение тоже может быть ритуалом.
 
 ## Хуки (для соцсетей / тизеров)
 
 - "Никаких слёз / Я разбираю"
-- **"Я не сорвусь / Я не сорвусь / Я не сорвусь / Скажи это ещё раз"** — PC2 self-lie мантра (wordplay с названием трека)
-- "Это твой стул / Это твоя кружка / Я стираю всё"
-- "Я сначала разорву станцию / Потом разорву себя / Так быстрее / Так чище"
-- **"Сорви с меня всё / Что осталось от тебя"** — главный припевный хук
+- **"Я в порядке / Мне не больно / Меня тут нет / Скажи это ещё раз / Я в порядке"** — PC2 лестница самообмана с петлёй: социальная ложь → отрицание боли → диссоциация → возврат к лёгкой лжи (не может остановиться)
+- **"Это твоё имя на моих губах / Я стираю всё"** — killer-инвентарь verse 1 (сжечь фото можно, имя в собственной речи стереть нельзя)
+- **"Я сначала разорву станцию / Потом разорву себя / Так быстрее / Так чище / Так не больно"** — PC1 эскалация рацио → правда (последняя строка раскрывает реальный мотив)
+- **"Сорву с себя всё / Что осталось от тебя"** — главный припевный хук
 - "Я хочу быть пустой" — повтор-мантра
-- "Я переписываю код станции / На код без приёмников"
-- "Если ты вернёшься / Тебе некуда возвращаться"
+- **"Я перерезаю провода / Связи больше нет"** — meta-payoff (буквальное перерезание + двойное дно про разорванный нейро-линк)
+- **"Если ты вернёшься / Я тебя не услышу"** — активный отказ слушать (зеркало к "Я слышу как ты пропадаешь" из РАЗРЫВа)
 - **"Я не злюсь на тебя / Я злюсь что не могу разозлиться"** — бридж-афоризм, центральная фраза трека
-- "Я делаю это чтобы хоть что-то делать / Это лучше чем сидеть"
+- **"Я делаю это чтобы хоть что-то делать / Это лучше чем слушать"** — bridge-афоризм про destruction-as-escape от роли слушающей
 
 Особенно: **"Я не злюсь на тебя / Я злюсь что не могу разозлиться"** — самая сильная фраза. Готова как одиночный хук для тизера.
 
 ## Что проверить после первой генерации
 
-- [ ] **Industrial vibe, не alt-metal**. Если Suno подсунула distorted гитары как ведущий инструмент — пере-генерить, акцентировать в style "synth bass as LEAD, no guitar wall, only surgical stabs"
-- [ ] **Темп ~135 BPM, четыре-на-полу**. Должен ощущаться как driving industrial, не как mid-tempo rock. Если Suno уплыла в ~100 BPM — добавить в style "fast industrial four-on-the-floor"
+- [ ] **Industrial-electronic alt vibe, не alt-metal**. Если Suno подсунула distorted гитары как ведущий инструмент — пере-генерить, акцентировать в style "synth bass as LEAD, no guitar wall, only surgical stabs"
+- [ ] **Темп ~120 BPM, четыре-на-полу**. Driving, не slow, но и не niche-industrial 135+. Если Suno уплыла в ~100 BPM — добавить в style "driving 120 bpm four-on-the-floor"
 - [ ] **Голос Мии в куплетах — half-spoken cold seething**, не интимный шёпот (это не ПОМЕХИ В ГОЛОВЕ, не ТРАНСЛЯЦИЯ). Контролируемая ярость, как будто она сейчас сорвётся, но держит.
-- [ ] **Голос в припеве — full open vocal**, не закрытый, не сдержанный. Yelled singing на грани, но без screams. Если Suno подсунула рестрейнт-припев — пере-генерить.
-- [ ] **Bridge — реальный полный дроп**, не "тихий рок". Только close-mic голос и микро-дыхание. Это критический момент трека — он должен звучать обнажённо.
+- [ ] **Голос в припеве — clean dramatic soaring** с layered harmonies. Не yelled at ceiling (это исходная harsh-версия v1), а emotional soaring через slight rasp. Если Suno подсунула гроул или yell — пере-генерить.
+- [ ] **Bridge — intimate drop**, не "тихий рок". Только close-mic голос и микро-дыхание. Это критический момент трека — он должен звучать обнажённо, но не агрессивно.
 - [ ] **Diegetic intro звуки** — glass smash, terminal kill, industrial pulse начинается. Если Suno проигнорила и начала сразу с музыки — добавить в style "diegetic destruction intro: glass smashing, electrical system shutdown, then industrial pulse begins"
 - [ ] **Никаких backing vocals, никакого choir of strangers**. Только Мия и её собственные layered гармонии. Exclude list должен это держать.
 - [ ] **Никаких crowd noise**. Industrial — стиль легко тянущий в "rave" вибрацию. Exclude list должен быть жёстким.
@@ -206,13 +181,13 @@ boy-band brightness, opera, jazz vocals, R&B melisma
 
 ## Возможные правки
 
-- Если "Я переписываю код станции / На код без приёмников" звучит слишком технично и убивает эмоцию — заменить на "Я стираю себя / Из своей памяти" (теряется специфика, но эмоциональнее)
 - Если bridge выходит длиннее 25 секунд — норма (это исповедь, требует места), но если за 30 — сократить до "Я делаю это чтобы хоть что-то делать". Финальная фраза "Что ты не вернёшься" — критическая, не убирать
 - Если "Я хочу быть пустой" Suno интонирует с грустью, а не с яростью — попробовать заменить на "Я хочу быть никем" или "Не хочу хранить" (более активная конструкция)
 - Если industrial percussion перебивает голос в припеве — снизить интенсивность тегами или вынести kick на off-beats
-- Если distorted synth bass звучит как dubstep wobble — это плохо, добавить exclude "no dubstep wobble, no EDM drop, no growl bass". Synth bass должен быть гладким distorted analog, как у Health
+- Если distorted synth bass звучит как dubstep wobble — это плохо, добавить exclude "no dubstep wobble, no EDM drop, no growl bass". Synth bass должен быть gritty analog, музыкальный (industrial-lite, не niche-dark-electro)
 - Если outro "терминальный бип" Suno проигрывает как музыкальный эффект — заменить на просто "deep breath, then silence"
-- Можно сократить до 3:15 если темп выйдет ещё быстрее (~140 BPM) — гнев не должен растягиваться
+- Можно растянуть до 3:45 если темп выйдет ровно 120 — трек должен дышать
+- Если **получилось слишком dark-electro / niche** — добавить в style "modern alt-rock energy, accessible, NOT industrial fury, NOT noise" и снизить упоминания "mechanical perc / glass smash" в intro
 
 ## Связь с альбомным аркой
 
@@ -221,12 +196,12 @@ boy-band brightness, opera, jazz vocals, R&B melisma
 **Что трек устанавливает для остального EP:**
 - Альбом **не будет линейным "погружением в грусть"**. Жанровый режим может меняться радикально между треками.
 - Якорная фраза **"Я хочу быть пустой"** — антитеза к якорю РАЗРЫВа "Я слышу как ты пропадаешь" (она там присутствует и теряет; здесь хочет себя стереть).
-- Якорная фраза **"тебе некуда возвращаться"** — отражение "Скоро вернусь" из РАЗРЫВа. Там — обещание-ложь. Здесь — сделанная угроза. В СЛЕДе обе фразы примирятся: разрыва не было, и возвращаться никуда не нужно — они на одной линии.
+- Якорная фраза **"Я тебя не услышу"** — активный отказ слушать. Зеркало к "Я слышу как ты пропадаешь / Я слышу как я остаюсь" из РАЗРЫВа: там она пассивно слушает потерю, здесь — отказывается слушать вообще. В СЛЕДе она вернётся к слушанию (1200 дней у антенны), но уже принимая — слушать, не ожидая ответа.
 - Bridge-приём (полный дроп до сухого голоса) — продолжается из РАЗРЫВа. Узнаваемый структурный почерк EP.
 
 **Контраст по жанровой динамике в EP:**
 - РАЗРЫВ — peak alt-metal, B minor, ~95 BPM (heaviest)
-- **СОРВУ — industrial-electronic, G minor, ~135 BPM (fastest)**
+- **СОРВУ — industrial-electronic alt, G minor, ~120 BPM (fastest)**
 - ТРАНСЛЯЦИЯ — synth-pop bright, D major, ~115 BPM (lightest)
 - ФРАГМЕНТ — alt-rock с электронкой, E minor, ~100 BPM (parallel structural)
 - СЛЕД — theatrical alt-metal финал, F# minor, ~98 BPM (peak)
