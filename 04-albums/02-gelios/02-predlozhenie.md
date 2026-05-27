@@ -107,12 +107,12 @@ heavy wall, blast drums, slap bass, cheery synth, bright pad, pop strings, shred
 [Program TTS interlude — bandlimit voice over held drone, NO rhythm, NO music build]
 [Program] Параметры миссии. Один пилот в капсуле. Программа не знает имён. Пара двенадцать-альфа. Срок ответа: семьдесят два часа.
 
-[Verse 2 — M lead full melodic verse, F backing harmonies on line endings, beat returns]
+[Verse 2 — M lead in HALF-RAP / TALK-SING delivery (Mike Shinoda LP Hybrid Theory style — rhythmically accented spoken-sung in alt-metal, NOT melodic singing), F backing sung harmonies on line endings, beat returns]
 Никто другой такого не сможет
 Никто другой не услышит сигнал
 Этот пакет шёл двадцать лет от края
 К нам — потому что больше не к кому
-Они называют нас по идентификатору
+Они зовут нас двенадцать-альфа
 Они не помнят как нас зовут
 Но кто-то должен полететь туда
 И кроме нас сейчас — никого
@@ -191,7 +191,7 @@ heavy wall, blast drums, slap bass, cheery synth, bright pad, pop strings, shred
 | Pre-chorus 1 | 0:55–1:18 | **Мия лидирует, опционально в rap-инфлексии (Nookie-style)**, NOX подключается на финальной строке, drums build |
 | Chorus 1 | 1:18–1:45 | **ОБА голоса вместе**, big melodic sing-along hook, peak guitars и drums |
 | **Program TTS interlude** | **1:45–2:05** | **Cold protocol announcement Программы поверх held drone, рождение фразы «Программа не знает имён», NO rhythm** |
-| Verse 2 | 2:05–2:48 | **NOX full melodic lead**, Мия backing-гармонии на акцентах, beat возвращается |
+| Verse 2 | 2:05–2:48 | **NOX half-rap / talk-sing lead** (Mike Shinoda LP Hybrid Theory style — rhythmically accented spoken-sung), Мия backing sung-гармонии на акцентах, beat возвращается |
 | Pre-chorus 2 | 2:48–3:00 | Duet, snap intensity, drums тёснее, **короткий 4 строки** |
 | Chorus 2 | 3:00–3:28 | **ОБА голоса**, fuller arrangement |
 | **Bridge** | **3:28–3:55** | **TOTAL DROP, intimate dialog (единственное место с alternation через строку), dry voices без фильтра, single heavy chord per line с тишиной между** |
@@ -213,7 +213,7 @@ heavy wall, blast drums, slap bass, cheery synth, bright pad, pop strings, shred
 **Драматургическая функция:**
 - **Трек должен играть как непреодолимая внешняя сила** — не как их решение. Они **уступают**, не **выбирают**. Активный выбор будет в Эп.3 (там решают **кто из них** идёт). Здесь — пассивное согласие с условиями, которое уже произошло до конца трека, но проговаривается всю длительность.
 - **Якорная фраза припева:** *«Это выбор не наш»* — главный hook. Точнее изначальной «Это выбор который не выбор»: они не **не имеют выбора**, они имеют **чужой выбор**. Программа сделала выбор за них, они только подписывают. Это резонирует с «Программа уже посчитала», «Программа не знает имён», «двенадцать-альфа».
-- **Рождение якорной фразы «Программа не знает имён»** — здесь она звучит **впервые** в проекте, в устах самой Программы, как бюрократическая нейтральность. NOX не подхватывает её в этом треке (намеренно — он использует «двенадцать-альфа», «по идентификатору», но не повторяет «не знает имён»). В Альбоме 1 (ТРАНСЛЯЦИЯ → СЛЕД) эта фраза вернётся в его устах как **осознанная горечь**. Здесь — семя.
+- **Рождение якорной фразы «Программа не знает имён»** — здесь она звучит **впервые** в проекте, в устах самой Программы, как бюрократическая нейтральность. NOX не подхватывает её в этом треке (намеренно — он использует «двенадцать-альфа», «зовут нас по номеру», но не повторяет «не знает имён»). В Альбоме 1 (ТРАНСЛЯЦИЯ → СЛЕД) эта фраза вернётся в его устах как **осознанная горечь**. Здесь — семя.
 - **Bridge «Один из нас уйдёт навсегда / Один из нас останется»** — первое явное проговаривание того, что произойдёт. **Кто** ещё не решено, поэтому симметрия (любой может быть тем или этим). В Эп.3 ВЫБОР симметрия рушится — выбирают NOX. Здесь — равновесие ужаса.
 - **Финальное «Это не выбор / Это не выбор»** в bridge — оба заканчивают на одной и той же фразе. Парадоксально — они снова в унисоне. Унисон трагический: они согласны в том, что согласие неизбежно.
 
@@ -235,7 +235,7 @@ heavy wall, blast drums, slap bass, cheery synth, bright pad, pop strings, shred
 - "И мы оба знаем / И мы оба молчим"
 - **«Программа не знает имён / Пара двенадцать-альфа»** — рождение якорной фразы
 - "Никто другой такого не сможет / Никто другой не услышит сигнал"
-- "Они называют нас по идентификатору / Они не помнят как нас зовут"
+- "Они зовут нас двенадцать-альфа / Они не помнят как нас зовут"
 - "Но кто-то должен полететь туда / И кроме нас сейчас — никого"
 - "Мы уже выбрали / Мы просто молчим"
 - "Скажи что мы не согласимся / Я не могу так сказать"
@@ -254,7 +254,7 @@ heavy wall, blast drums, slap bass, cheery synth, bright pad, pop strings, shred
 - [ ] **Persona MIYA_v1 и NOX_v1** — дуэт, см. [suno-workflow.md](../../03-music/suno-workflow.md) Принцип 3-4
 - [ ] **Vocal Gender toggle = НИ ОДИН** (дуэт; `[F]`/`[M]` теги в bridge и intro)
 - [ ] **V1 — Мия ведёт полный мелодический куплет**, не альтернация через строку. Если Suno начала делать диалог F-M-F-M через строку — пере-генерить с акцентом «F leads ENTIRE verse 1 as full melodic vocal line, M only adds backing harmonies on line endings/accents»
-- [ ] **V2 — NOX ведёт полный мелодический куплет** (зеркало V1). Та же проверка.
+- [ ] **V2 — NOX в half-rap / talk-sing delivery** (Mike Shinoda Hybrid Theory style — rhythmically accented spoken-sung в alt-metal, **НЕ melodic singing**), Мия backing на акцентах. **Plan B note:** Suno делает весь NOX vocal (V2 half-rap, bridge dialog, chorus harmonies). Андрея scream layers **опциональны** для peak accents — рекомендую: bridge финальное «**Это не выбор / Это не выбор**» (второе в chest-scream — NOX breaks под bureaucratic pressure) и Final Chorus финальное «**Мы оба молчим**» (peak declaration в scream). Layer +2dB поверх Suno NOX vocal в этих точках.
 - [ ] **Припевы — оба голоса в унисон (или плотных гармониях), большой sing-along hook.** Если Suno делает разнесённые голоса L/R или один лидер с тихим бэком — пере-генерить с «BOTH voices unite in chorus as melodic sing-along hook, octave or harmony together NOT separate parts»
 - [ ] **Pre-chorus 1 — Мия может в rap-инфлексии (Nookie-style aggressive accented phrasing).** Если Suno делает обычное мелодическое пение — это **тоже ок** (rap опционален). Если хочется именно rap — пометить жирнее «female lead pre-chorus with rap-inflected aggressive accented spoken-sung delivery, like Russian female rapper in alt-metal»
 - [ ] **Mid-weight guitars throughout (не только в припевах)** — если Suno делает чистые куплеты без гитар — пере-генерить с «mid-weight melodic distorted guitars present in ALL sections except bridge, NOT only choruses»
@@ -275,7 +275,7 @@ heavy wall, blast drums, slap bass, cheery synth, bright pad, pop strings, shred
 - Если **«двенадцать-альфа»** Suno проговаривает невнятно — заменить на «**пара альфа-двенадцать**» или «**пара L-117**» (letter-number, проще для TTS)
 - Если **rap-инфлексия в Pre-chorus 1** не получается — оставить обычное мелодическое пение, это работающий fallback (тогда трек становится менее СЛОТ-специфичным, но всё равно alt-metal)
 - Если **V1 куплет** получается слишком длинным мелодически (8 строк — это много) — можно убрать «В их таблицах мы только пара цифр / В их параметрах нас нет» и оставить 6 строк
-- Если **V2 куплет** аналогично — можно убрать «Они называют нас по идентификатору / Они не помнят как нас зовут»
+- Если **V2 куплет** аналогично — можно убрать «Они зовут нас двенадцать-альфа / Они не помнят как нас зовут»
 - Если **bent leitmotif** Suno не подхватила — fallback: убрать из style упоминание и в DAW вручную добавить glockenspiel sample в intro и final chorus
 - Если **bridge** оказывается слишком коротким — добавить пару строк: «[F] Я не хочу твоего согласия / [M] Я знаю / [F] Тогда почему ты соглашаешься / [M] Потому что согласишься и ты»
 - Если **припев «Это выбор не наш»** Suno интонирует с pop-melodрамой или soaring рock-чорусом — пере-генерить с «matter-of-fact declarative tone in chorus hook, NOT soaring stadium chorus, NOT pop melodrama»

@@ -65,19 +65,15 @@ American accent, alt-metal stadium wall.
 
 [Intro music — cello tone + glockenspiel leitmotif fade in]
 
-[Verse 1 — F lead, M echoes via soft link-filter from within F's reverb]
-[F] Утро на Цикле, седьмой час
-[M] Ты ещё в полусне
-[F] Я знаю, ты тоже
-[M] Чайник
-[F] Я уже его выключила
-[M] А я уже встал
-[F] Я не помню кто из нас встал первым
-[M] И не важно
-[F] Соня в коридоре опять что-то поёт
-[M] Завтра у неё день рождения
-[F] Открытка
-[M] Я подписал за нас обоих
+[Verse 1 — F lead full melodic verse, M backing harmonies on line endings, soft link-filter on M echo from within F's reverb]
+Утро на Цикле, седьмой час
+Мы оба ещё в полусне
+Чайник кто-то уже выключил
+Я не помню — ты или я
+Соня в коридоре что-то поёт
+У неё завтра день рождения
+Открытку я подписала за обоих
+А кто из нас встал первым — не важно
 
 [Pre-chorus — duet, both voices together, pad swell, no drums]
 Мы не замечаем
@@ -100,19 +96,15 @@ American accent, alt-metal stadium wall.
 Если ты вынешь себя
 Я не узнаю меня
 
-[Verse 2 — M lead, F echoes via link-filter from within M's reverb]
-[M] Данные сегодня — сектор сорок-А
-[F] Очень слабый пакет, я вижу
-[M] Дай уберу шум
-[F] Уже убрала
-[M] Направление — Канопус
-[F] Помнишь как мы первый раз его услышали
-[M] Я слышал ту же мысль
-[F] Этот пакет шёл двадцать лет
-[M] Кто-то его искал
-[F] Двадцать лет — это много
-[M] Для них — много
-[F] Для нас — ничего
+[Verse 2 — M lead in SPOKEN-SUNG baritone (intimate narrative, NOT melodic singing — King Krule / Nick Cave style low register), F adds light sung harmonies on line endings from within M's reverb, soft link-filter]
+Данные сегодня — сектор сорок-А
+Очень слабый пакет, я вижу
+Шум я почистил — ты уже убрала
+Я слышал ту же мысль одновременно
+Направление — Канопус, помнишь?
+Мы услышали его впервые вместе
+Этот пакет шёл к нам двадцать лет
+Для них — много, для нас — ничего
 
 [Interlude — 6/8 swaying, piano + pad, no drums, no guitars, no link-filter, alternating F and M dialogue]
 [F] Мы взяли отпуск на орбитальную ферму
@@ -199,10 +191,10 @@ American accent, alt-metal stadium wall.
 | Секция | Длина | Что звучит |
 |---|---|---|
 | Intro | 0:00–0:15 | **Sleepy dialogue**: 0-8 сек без музыки, разговор шёпотом через линк-фильтр; 8-15 сек постепенный вход сустейн-тона + глокеншпиля + pad + sub-bass |
-| Verse 1 | 0:15–1:00 | Мия-лидер, NOX отзывается из её reverb-пространства, sub-bass, glockenspiel sparse, без барабанов |
+| Verse 1 | 0:15–1:00 | **Мия full melodic lead**, NOX backing-гармонии на акцентах из её reverb-пространства, sub-bass, glockenspiel sparse, без барабанов |
 | Pre-chorus 1 | 1:00–1:25 | Оба голоса вместе, pad swells, без барабанов (8 строк, расширенный) |
 | Chorus 1 | 1:25–2:00 | **DUET в центр-бленде**, mid-weight гитары, drums straight 4/4, warm soar |
-| Verse 2 | 2:00–2:45 | NOX-лидер, Мия из его reverb-пространства, барабаны уходят на задний план |
+| Verse 2 | 2:00–2:45 | **NOX spoken-sung baritone** (intimate narrative, не melodic; King Krule / Nick Cave low register), Мия light sung-гармонии на акцентах из его reverb-пространства, барабаны уходят на задний план |
 | **Interlude / C-part** | **2:45–3:25** | **СТРУКТУРНЫЙ ОТХОД: 6/8 swaying, пианино + warm pad, без барабанов, без гитар, без линк-фильтра. Планы на отпуск.** |
 | Pre-chorus 2 | 3:25–3:40 | **Snap back в 4/4**, короткий tight (4 строки), soft drums, foreshadow "воздух пока есть" |
 | Chorus 2 | 3:40–4:10 | Полнее, вариация припева 1 |
@@ -233,21 +225,25 @@ American accent, alt-metal stadium wall.
 
 ## Хуки (для соцсетей / тизеров)
 
-- "Утро на Цикле, седьмой час / Ты ещё в полусне / Я знаю, ты тоже"
-- "Я не помню кто из нас встал первым / И не важно"
+- "Утро на Цикле, седьмой час / Мы оба ещё в полусне"
+- "Чайник кто-то уже выключил / Я не помню — ты или я"
+- "Соня в коридоре что-то поёт / У неё завтра день рождения"
+- "Открытку я подписала за обоих"
+- "А кто из нас встал первым — не важно"
 - "Линк это воздух / Мы не благодарим"
 - "Никто не учил нас отдельности / Никто не знает как"
 - "Вдвоём в голове / Без чужих, без границ"
 - "Я не помню как было одной / Я не помню как было одним"
 - "И я не знаю кто я / Если ты вынешь себя / Я не узнаю меня"
-- "Двадцать лет — это много / Для них — много / Для нас — ничего"
+- "Шум я почистил — ты уже убрала / Я слышал ту же мысль одновременно"
+- "Этот пакет шёл к нам двадцать лет / Для них — много, для нас — ничего"
 - "Я хочу увидеть как растёт яблоня / Я хочу спать на настоящей траве"
 - "Воздух пока есть"
 - "Иногда хочется сказать словами / Я знаю / Ты так часто говоришь 'я знаю' / Потому что это всё что у меня есть"
 
 Особенно:
 - **"Линк это воздух / Мы не благодарим"** — мини-афоризм, центральный образ альбома о том, что они не ценили линк, потому что не замечали
-- **"Двадцать лет — это много / Для них — много / Для нас — ничего"** — поверхностно философия, но в ретроспективе ХВОСТ-9 (где пакет NOX идёт 20 лет до Мии) превращается в проклятие
+- **"Этот пакет шёл к нам двадцать лет / Для них — много, для нас — ничего"** — поверхностно философия, но в ретроспективе ХВОСТ-9 (где пакет NOX идёт 20 лет до Мии) превращается в проклятие
 - **"Воздух пока есть"** — единственная foreshadow-фраза трека, в pre-chorus 2
 
 ## Что проверить после первой генерации
@@ -257,7 +253,11 @@ American accent, alt-metal stadium wall.
 - [ ] **C-part в 6/8** — критичная структурная инновация трека. После куплета 2 трек должен **физически** переключиться в swaying 6/8 feel, темп субъективно замедлиться, барабаны выйти, пианино заменить глокеншпиль. Если C-part звучит как ещё один куплет в 4/4 — пере-генерить с явной инструкцией "TIME SHIFT to 6/8 dreamy swaying feel, no drums, real warm piano replaces glockenspiel". Без этой секции трек звучит вторично.
 - [ ] **Звуковой signature HELIOTAIL:** Vangelis-cosmic pads (не generic stadium pads), constant sub-bass drone присутствие, glockenspiel/celeste тембр на лейтмотиве, голоса в центр-бленде (не L/R panning). Если Suno подсунула стандартную alt-metal палитру — добавить в style explicitly "DISTINCTIVE HELIOTAIL sonic signature: Vangelis cosmic pads NOT stadium pads, glockenspiel piano timbre NOT straight piano, center-blend duet NOT L/R panning".
 - [ ] **Тёплая фактура** — трек не должен звучать тяжело или мрачно. Минор, но обжитой. Если Suno подсунула heavy metal вибу — пере-генерить с акцентом "WARMER opener, NOT heavy, domestic feel".
-- [ ] Куплеты — **Мия лидирует в V1 (NOX отзывается), NOX лидирует в V2 (Мия отзывается)**, и отзывающийся голос звучит **изнутри reverb-пространства лидера** — не L/R, а как второй голос в одной голове. Если Suno поставила echo-голос в противоположный канал — пере-генерить, усилить "echo voice inside lead vocal's reverb space, NOT L/R panned".
+- [ ] Куплеты — **песенная форма с одним лидером**, но **с разной vocal modality**:
+  - **V1 — Мия sung melodic lead** (8 строк), NOX подключается **light sung-гармониями на акцентах** (последние слова строк) из её reverb-пространства
+  - **V2 — NOX spoken-sung baritone lead** (intimate narrative low register, King Krule / Nick Cave style, **НЕ melodic singing**), Мия подключается light sung-гармониями
+  - **НЕ диалог через строку.** Если Suno начала делать alternation F-M-F-M через строку — пере-генерить с акцентом "ONE singer leads ENTIRE verse, second voice adds backing harmonies on line endings only, NOT alternating dialogue"
+  - **Plan B note:** **Suno делает весь NOX vocal** в этом треке (V2 spoken-sung baritone + backing/spoken dialog в bridge). Андрей **не записывает scream layers** — это intimate warm opener, без natural peak-scream moments. Этот трек — единственный в ГЕЛИОСЕ полностью на Suno (под warm opener-функцию).
 - [ ] **Soft линк-фильтр** на echo-голосе в куплетах — лёгкий bandlimit на NOX в V1 и на Мие в V2, лидер остаётся чистым. НЕ тяжёлая статика. Если Suno выдала чистые голоса без фильтра — добавить "soft intimate neuro-link bandlimit filter on echo voice only".
 - [ ] Припев — **оба голоса в центр-бленде как одна сущность**, не L/R panning. Это намеренно отличается от дуэтов ХВОСТ-9 (где для контраста использовалось разнесение). Здесь воплощает идею "вдвоём в голове".
 - [ ] **Mid-weight гитары** в припеве, не стена. Если Suno слэмает стену — снизить heaviness, пометить "mid-weight, controlled, NOT a wall".

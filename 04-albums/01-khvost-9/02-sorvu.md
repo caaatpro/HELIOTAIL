@@ -66,7 +66,7 @@ boy-band brightness, opera, jazz vocals, R&B melisma
 [Intro — diegetic destruction sounds: glass smashing close-mic, terminal violently powered off with electrical buzz, then industrial pulse begins; one mechanical clang sets the BPM]
 
 [Verse 1 — Miya, cold half-spoken seething, dry close-mic, controlled but boiling underneath]
-Я не плачу
+Никаких слёз
 Я разбираю
 Я выдёргиваю кабели
 Один за другим
@@ -102,12 +102,12 @@ boy-band brightness, opera, jazz vocals, R&B melisma
 Я тебя сделала
 Чужим
 
-[Pre-chorus 2 — Miya, tight almost broken, mantra-repetition]
-Я не плачу
-Я не плачу
-Я не плачу
+[Pre-chorus 2 — Miya, tight almost broken, mantra-repetition with title wordplay (СОРВУ = action vs не сорвусь = state)]
+Я не сорвусь
+Я не сорвусь
+Я не сорвусь
 Скажи это ещё раз
-Я не плачу
+Я не сорвусь
 
 [Chorus 2 — same hook, more layered, heavier, more peak]
 Сорви с меня всё
@@ -178,7 +178,8 @@ boy-band brightness, opera, jazz vocals, R&B melisma
 
 ## Хуки (для соцсетей / тизеров)
 
-- "Я не плачу / Я разбираю"
+- "Никаких слёз / Я разбираю"
+- **"Я не сорвусь / Я не сорвусь / Я не сорвусь / Скажи это ещё раз"** — PC2 self-lie мантра (wordplay с названием трека)
 - "Это твой стул / Это твоя кружка / Я стираю всё"
 - "Я сначала разорву станцию / Потом разорву себя / Так быстрее / Так чище"
 - **"Сорви с меня всё / Что осталось от тебя"** — главный припевный хук

@@ -82,8 +82,8 @@ overlapping in stereo center
 [M]: Я назвал её твоим именем
 
 [Pre-chorus 1 — both rise but stay hard L/R, drums build, bass enters fully]
-[F]: Я говорю тебе
-[M]: Я говорю тебе
+[F]: Я пишу тебе
+[M]: Я пишу тебе
 [F]: Каждый день
 [M]: Каждый день
 [F]: Что-то новое
@@ -110,8 +110,8 @@ overlapping in stereo center
 [M]: Знаю что ты не там
 
 [Pre-chorus 2 — same rise, more layered, drums hit harder]
-[F]: Я говорю тебе
-[M]: Я говорю тебе
+[F]: Я пишу тебе
+[M]: Я пишу тебе
 [F]: Каждый день
 [M]: Каждый день
 [F]: Что-то новое
@@ -156,6 +156,29 @@ overlapping in stereo center
 [M]: ...
 [static fade]
 ```
+
+## NOX vocal layers (DAW post-production — Plan B)
+
+Под [Plan B vocal architecture](story-bible.md#vocal-architecture-production-principle): Suno генерит **весь** vocal NOX (V1/V2 spoken-baritone в R, PC half-rap, choruses heavy autotuned chord stack или half-rap-chant, bridge dry spoken). ФРАГМЕНТ может **полностью остаться на Suno** — это не peak-intensity трек, scream здесь опционален.
+
+### Если хочешь scream-accent (опционально)
+
+Один **emotional break-through**: финальная строка Final Chorus **«Не встретятся»** в chest-scream от Андрея, layered поверх Suno NOX в R-канале. Один scream на весь трек — это **catharsis-момент**: NOX впервые срывается, пробивает структуру parallel monologues. Прямо в момент, где они впервые завершают одну мысль ВМЕСТЕ — слушатель слышит, как ему **больно**, что это согласие.
+
+| Где | Что орёшь | Take'и |
+|---|---|---|
+| **Final Chorus последнее «Не встретятся»** | один chest-yelled accent поверх Suno NOX в R | 2-3 take'а |
+
+### DAW processing scream accent (если делаешь)
+
+Та же цепочка что и в РАЗРЫВе (EQ HPF → harsh comp → tape distortion → parallel comp → mid-side widening), но:
+- **Pan: hard right** (matching NOX position в треке)
+- Не уходить в центр — сохранять L/R разделение даже в peak момент
+- Layer +2dB поверх Suno NOX «Не встретятся»
+
+### Альтернатива — полностью Suno
+
+ФРАГМЕНТ хорошо работает и без scream. Если не хочется записывать — оставить как есть. Hard L/R alt-clean structure сама несёт смысл трека.
 
 ## Структура и тайминг
 
@@ -214,6 +237,7 @@ overlapping in stereo center
 - [ ] **Outro: asymmetric fade** — Мия затихает на полсекунды раньше NOX. Если Suno сделала одновременный fade — пере-генерить, акцентировать "Miya fades 0.5 seconds before Nox, asymmetric goodbye"
 - [ ] **Никаких screams, никаких growls** — это alt-clean от обоих.
 - [ ] **Не путать с РАЗРЫВом** — в РАЗРЫВе тоже есть L/R разделение в куплете 2. В ФРАГМЕНТЕ это весь трек. Если получилось похоже на РАЗРЫВ — нужен более driving, более poppy hook в припеве.
+- [ ] **(опционально) Андрея scream-accent** на финальной «Не встретятся» записан и layered в R (см. секцию NOX vocal layers). Если не делаешь — оставить полностью на Suno alt-clean.
 
 ## Возможные правки
 

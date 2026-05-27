@@ -144,6 +144,43 @@ Miya: Ответь
 [static fade]
 ```
 
+## NOX vocal layers (DAW post-production — Plan B)
+
+Под [Plan B vocal architecture](story-bible.md#vocal-architecture-production-principle): Suno генерит основной vocal NOX через link-static filter (V1) и dry post-разрыв (V2). **Андрей записывает chest-scream layers для peak chorus моментов** в DAW.
+
+### Где Андрей орёт
+
+В этом треке Plan B даёт **особенно сильный sonic-эффект**: в припевах слушатель слышит **Мия (Suno AI processed yelled vocal) + NOX (Андрея raw chest-scream layered)** одновременно. Это **звуковая метафора расходящихся каналов** — они формально вместе в финальном дуэте, но звучат уже из разных миров (AI vs human). Под концепт трека идеально: граница уже звучит, пока ещё формально вместе.
+
+| Где | Что орёшь | Take'и |
+|---|---|---|
+| **Chorus 1 — NOX строки** | весь chorus в chest-scream поверх Suno NOX | 2-3 take'а с разной интенсивностью |
+| **Chorus 2 — NOX строки** | то же, чуть громче | 2-3 take'а |
+| **Final Chorus — NOX строки** | peak chest-scream layered поверх Suno wall — **главная sonic-точка трека** | 3-4 take'а, выбрать самые мощные |
+| **(опционально) PC2 «Скажи что я ещё там»** | один accent yelled | 2 take'а |
+
+### DAW processing scream layers
+
+| # | Шаг | Настройка |
+|---|---|---|
+| 1 | EQ HPF | 120 Hz |
+| 2 | Compression | 8:1, attack 5ms, release 100ms |
+| 3 | Tape distortion | Decapitator / IVGI, drive 30-40% |
+| 4 | Parallel compression bus | смешать сухой + тяжело сжатый |
+| 5 | Mid-side widening | +3dB на mid-high side |
+| 6 | **Chorus 1 & 2:** прогон через тот же link-static filter что Suno NOX | matching processing — scream звучит «сквозь сломанный канал» |
+| 7 | **Final Chorus:** без filter | raw scream, post-разрыв — Suno NOX тоже clean |
+| 8 | Layer | +3dB поверх Suno NOX vocal |
+
+### Что Suno делает целиком (без Андрея)
+- Intro countdown (диегетический voice — может Suno, иначе DAW через TTS)
+- V1 NOX lines (через link-static, intimate fragment)
+- PC1 layered backing
+- V2 NOX lines (dry post-link, panned right)
+- Bridge NOX whispers («Скоро вернусь», «Это была ложь»...)
+- NOX vocal foundation в Chorus 1, 2, Final (под слоем Андрея scream)
+- Outro — Mia only, NOX silent
+
 ## Структура и тайминг
 
 | Секция | Длина | Что звучит |
@@ -196,6 +233,7 @@ Miya: Ответь
 - [ ] Финальный припев — **самый тяжёлый момент EP**. Если по интенсивности он равен или слабее, чем СЛЕД finale — пере-генерить, нужно ещё плотнее.
 - [ ] Outro — **dead carrier wave** (постоянный шум мёртвой несущей), не музыкальный пэд. Одинокий зов Мии без ответа NOX (он молчит).
 - [ ] **Фраза "первая тишина"** в финале припева — должна звучать акцентированно, чтобы её можно было узнать как родителя следующего трека.
+- [ ] **Андрея chest-scream layers** записаны для Chorus 1, Chorus 2, Final Chorus (см. секцию NOX vocal layers). Final Chorus — main scream peak, минимум 3 take'а. Layer +3dB поверх Suno NOX.
 
 ## Возможные правки
 

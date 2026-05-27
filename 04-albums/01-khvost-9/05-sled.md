@@ -56,7 +56,7 @@ cheering, no live concert atmosphere, no audience sounds, no live recording feel
 Но сегодня я не могу молчать
 
 [Pre-chorus — Miya, drums entering, tempo lifting]
-И я не плачу
+Слёз больше нет
 Я научилась слышать шум
 В этом белом шуме
 Спрятан твой голос
@@ -83,7 +83,7 @@ cheering, no live concert atmosphere, no audience sounds, no live recording feel
 А я смотрю всё чаще и чаще
 
 [Pre-chorus — Miya]
-И я не плачу
+Слёз больше нет
 Я научилась слышать шум
 Каждое слово — это пакет
 Который шёл двадцать лет
@@ -128,6 +128,41 @@ Nox (echo): ...что ты прошёл...
 Тишина
 ```
 
+## NOX vocal layers (DAW post-production — Plan B)
+
+Под [Plan B vocal architecture](story-bible.md#vocal-architecture-production-principle): Suno генерит основной vocal NOX — dry spoken-baritone через static filter в V2 (intimate filtered memory), spoken echo в Bridge. **Андрей записывает chest-scream layer для Final Chorus** в DAW — peak finale всего EP.
+
+### Где Андрей орёт
+
+| Где | Что орёшь | Take'и |
+|---|---|---|
+| **Final Chorus — NOX вokal layer** | sustained chest-scream через припев поверх Suno NOX layered choir-stacks — **finale всего EP, sonic peak проекта** | 3-4 take'а, выбрать самые мощные |
+
+**Только одна точка scream'а — но самая важная.** СЛЕД — финал EP, и финальный chorus — peak катарсиса для обоих персонажей. NOX scream здесь = последний прорыв человека через систему перед окончательным принятием.
+
+**Опциональный second scream:** последняя строка финала **«Что я иду за тобой»** в Мии — но это её строка (Suno AI). У NOX в финале «Только ты знаешь» — на эту строку можно дать **отдельный peak scream** Андрея, чтобы они закончили одновременным криком от разных миров.
+
+### DAW processing scream layer
+
+Та же цепочка что в РАЗРЫВе и ТРАНСЛЯЦИИ:
+1. EQ HPF 120 Hz
+2. Compression 8:1, fast attack
+3. Tape distortion (Decapitator / IVGI, drive 30-40%)
+4. Parallel compression bus
+5. Mid-side widening
+6. Layer +3dB поверх Suno NOX в Final Chorus
+7. **Не панорамировать жёстко L/R** (в отличие от ФРАГМЕНТа) — здесь финал, они **вместе** через след
+
+### Что Suno делает целиком
+
+- V1 Mia (sung, growing dynamic)
+- PC1 Mia
+- Chorus 1, 2, Final — Mia melodic lead
+- V2 NOX (dry spoken-baritone через static filter, intimate)
+- Bridge — Mia speaks + NOX echo через static
+- Final Chorus NOX foundation (под слоем Андрея scream)
+- Outro — Mia exhausted whisper
+
 ## Структура и тайминг
 
 | Секция | Длина | Что звучит |
@@ -162,6 +197,7 @@ Nox (echo): ...что ты прошёл...
 - [ ] Outro: ambient fade с возвращением пианино, не обрыв
 - [ ] Слово "пакет" звучит правильно (ударение на "е")
 - [ ] Suno не подсунула гроулы/харши — в этом треке только чистый вокал
+- [ ] **Андрея chest-scream layer для Final Chorus** записан (3-4 take'а), layered поверх Suno NOX (см. секцию NOX vocal layers). Final EP peak — это **самый важный scream в проекте**.
 
 ## Возможные правки
 
