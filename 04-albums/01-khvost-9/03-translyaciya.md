@@ -1,207 +1,252 @@
 # Track — "ТРАНСЛЯЦИЯ"
 
-**Эпизод 3.** Соло NOX. Slow burn, минималистичный — первое раскрытие мужского персонажа изнутри.
+**Эпизод 3.** Соло NOX. **Главный сюрприз альбома** — обманчиво-светлый synth-pop. NOX в режиме отрицания.
 
 ## Сцена
 
-NOX в капсуле "Гелиоса", уже за гелиопаузой. Времени прошло неопределённо — он перестал считать. На радаре одна точка: маркер станции "Хвост-9". Это единственный объект на сотни световых дней, который он знает по имени.
+NOX в капсуле "Гелиоса", уже за гелиопаузой. Прошло время — он перестал считать. Сегодня он садится за интерфейс и записывает "звонок домой". Бодро, как будто всё нормально. Говорит про погоду в капсуле, про координаты, про чай, про планы "когда увидимся". Ничего из этого не реально — связь оборвана, до Мии его пакет если и дойдёт то через годы, и он это знает. Но он играет в нормальное.
 
-Корабль идёт по программе. Личные сообщения адресовать нельзя — программа жёсткая, личные пакеты идут с многолетней задержкой и часто теряются. Но в **общий поток данных** — телеметрию, заметки, бортовой журнал — писать можно. Всё это уходит на Землю и распределяется по подписанным каналам. Среди приёмников — Хвост-9.
+**Это и есть главный приём трека:** жанрово это бодрый retrofuturistic synth-pop, мажор, четыре-на-полу, светлые арпеджио, anime-opening brightness. Лирически — домашняя болтовня про быт ("поставь чайник", "скоро дома", "сделаю фотку"). Контекстуально — это **человек, которого больше нет в общем времени с адресатом**, и он делает вид что есть. Слушатель слышит бодрую поп-песню. Слушатель знает то, чего NOX как-будто не знает (или знает, но не может произнести).
 
-NOX садится перед интерфейсом и начинает запись. Он знает, что между ним и Мией задержка, которую он уже не считает. То, что он скажет сейчас, дойдёт до неё когда дойдёт. Но он говорит всё равно. Это первая трансляция. Их будет много.
+**Горизонт ужаса** — в bridge'е, когда NOX **на пятнадцать секунд** ломает характер. Дроп до одного синт-пэда. Он говорит прямо: "Я знаю что не вернусь. И я говорю что вернусь. Потому что иначе я перестану говорить." Этот момент — единственное место в треке, где маска снимается. Потом он сразу возвращается в бодрый припев. **Финальный припев крушит сильнее именно из-за того, что бридж был.**
 
-Центральный приём: **зеркало к "Первой тишине"**. Мия зовёт в пустоту → не получает ответа. NOX отвечает в пустоту → не зная, услышит ли. Одна механика, две её стороны.
+Зеркало к СОРВУ (Эп.2, Мия в ярости): оба не хотят чувствовать, оба выбирают разные способы убежать. Она через активное разрушение. Он через активное отрицание. Когда слушатель попадает в ТРАНСЛЯЦИЮ после СОРВУ, он узнаёт механизм с другой стороны.
 
 ## Жанр и звук
 
-- **Modern progressive alt / slow-burn alt-metal** (Sleep Token "Take Me Back to Eden" интимные секции, Loathe атмосферные части, Bad Omens медленные треки), та же лана EP
-- **BPM:** ~80 (slow burn, half-time feel — заметно медленнее обоих предыдущих треков для контраста)
-- **Тональность:** D minor (тёплая тёмная, под баритон; отличается от F#min СЛЕДа и Amin ПЕРВОЙ ТИШИНЫ)
-- **Инструментация:** sub-bass и атмосферные синт-пэды как основа всего трека, sparse фортепиано в куплетах. Дисторшн-гитары появляются **только** в пре-припеве 2 и припеве 2 — большая часть трека минимальная. Никаких stadium-стен (это территория РАЗРЫВа и СЛЕДа).
-- **Динамика:** интимный куплет 1 (sub-bass + pad + dry close-mic) → пре-припев 1 мягкий build без барабанов → припев 1 soaring, **но без гитар** — только кинематографичные ударные и layered vocal stacks → куплет 2 такой же интимный, прямое обращение к Мие → пре-припев 2 — дисторшн-гитары впервые входят → припев 2 с гитарной подложкой, но контролируемой, не стеной → bridge **полный дроп**, NOX произносит замену "Скоро вернусь" → финальный припев минимальный lift с choir-stacks, не stadium → outro: звук кнопки передачи, статика, ambient fade
-- **Длина:** ~4:10
+- **Bright synthwave / synth-pop / retrofuturistic optimism** (анти-палитра альбома — намеренно contraste). Думаем CHVRCHES "Recover", M83 "Midnight City" calm sections, MGMT "Time to Pretend", The Midnight, FM-84 — но русскоязычно и с baritone weight, а не bright tenor. Anime-opening 80s sci-fi brightness, не EDM
+- **BPM:** ~115 (uplifting cruise tempo, not racing — комфортный поп-темп)
+- **Тональность:** D major (бодрый мажор — единственный мажорный трек EP, sonic outlier)
+- **Инструментация:** warm analog synth pads, bright synth lead arpeggios, driving four-on-the-floor synth kick + snappy snare (drum machine, не живые барабаны), gated reverb на snare, sub-bass + saw-bass на акцентах, **никаких distorted guitars**. На bridge — один тонкий synth pad, всё остальное выпадает. Никакого пианино.
+- **Динамика:** intro bright synth swell с retro arp → куплет 1 NOX над synth-pop production, голос всё ещё weighted baritone но фразировка с лифтом, почти счастлив → пре-припев lift, synth bass входит, arp ускоряется → **припев — big bright synth-pop hook**, soaring мелодия, layered vocal stacks (как у CHVRCHES, но мужской baritone, а не женский) → куплет 2 такой же bright, чуть больше деталей с одной off-нотой → пре-припев 2 с subtle minor turn (едва заметно) → припев 2 ещё больше → **bridge — DROP до одного synth pad**, NOX теряет лифт на 15 секунд, говорит прямо → финальный припев — обратно в bright, но теперь znание про bridge крушит сильнее → outro: bright synth fade, постепенно деградирует в статику, transmission click срезает всё в тишину
+- **Длина:** ~4:00
 
 ## Style-промпт для Suno
 
 ```
-Modern progressive alt-rock / slow-burn alt-metal in the vein of Sleep Token
-(intimate sections of "Take Me Back to Eden"), Loathe atmospheric parts, Bad
-Omens slower tracks. Tempo ~80 BPM, half-time feel, D minor. Russian-language
-male vocalist Nox: weighted intimate close-mic baritone in verses, almost
-spoken, slight rasp; soaring full voice in choruses with layered harmonies but
-minimal instrumentation, no stadium guitar wall. Sub-bass and atmospheric synth
-pads as foundation, sparse piano in verses. Cinematic drums enter in chorus 1
-but no distorted guitars yet. Heavy melodic distorted guitars enter only in
-pre-chorus 2 and chorus 2, controlled, not a wall. Bridge: total instrumental
-drop, dry intimate male vocal only (Sleep Token-style breakdown to silence).
-Final chorus: slight theatrical lift with choir-style male vocal stacks,
-restrained, not full stadium. Outro: sound of transmission interface click,
-static, ambient fade. No autotune, no electronic dance feel, no rap, no
-American accent, no screams or growls, no boy-band tenor brightness, no crowd
-noise, no audience cheering, no live concert atmosphere, no audience sounds,
-no live recording feel.
+Bright retrofuturistic synth-pop track in the vein of CHVRCHES, M83, The
+Midnight, FM-84, 1980s sci-fi opening sequences. Anime-opening brightness.
+Tempo ~115 BPM uplifting cruise tempo with driving four-on-the-floor synth
+kick and snappy snare with gated reverb. D major (bright). Warm analog synth
+pads as foundation, bright synth lead arpeggios, sub-bass with saw-bass on
+accents. NO distorted guitars, NO live drums — fully electronic synth-pop
+production. Russian-language male solo vocalist Nox: weighted baritone (this
+is critical — his vocal weight stays even though the music is bright) with
+lifted phrasing in verses, almost happy delivery, soaring full voice in
+choruses with layered vocal stacks like CHVRCHES style harmonies but in male
+baritone register. Verse 1 over bright synth-pop production, casual cheerful
+home-call delivery. Pre-chorus 1 lift, synth bass enters, arpeggios accelerate.
+Chorus 1: big bright synth-pop hook with soaring melody and layered male vocal
+stacks, full uplifting production. Verse 2 same bright production with one
+subtle off-note in the harmony. Pre-chorus 2 with subtle minor-key turn
+(barely noticeable). Chorus 2 even bigger. Bridge: DROP to single thin synth
+pad, vocal loses the lift for 15 seconds, intimate close-mic baritone
+confession. Final chorus: back to full bright synth-pop with double layers.
+Outro: bright synth fade slowly degrading into static, then a transmission
+click cuts everything to silence. STUDIO BOOTH recording, ASMR-close mic on
+bridge, ONE singer, ISOLATED vocal track, no other voices.
+```
+
+## Exclude Styles (отдельное поле в Suno More Options)
+
+```
+crowd, audience, cheering, applause, live recording, live concert, room
+ambience, sing-along, festival, arena, choir of strangers, group vocals,
+multiple singers, female vocal, female backing, female harmony, second vocalist,
+boy-band brightness, bright tenor pop, falsetto, autotune warble, rap, American
+accent, screams, growls, distorted guitar wall, electric guitar lead, acoustic
+guitar, live drums, real drum kit, country, jazz, R&B melisma, opera, EDM drop,
+dubstep wobble, hard-step, future-bass, drum-and-bass, jungle, hyper-pop,
+hardstyle, trance buildup
 ```
 
 ## Лирика
 
 ```
-[Intro — capsule life-support hum, distant data tones, ambient pad; then sub-bass enters. Diegetic voice line, formal protocol: "Хвост-9, это Гелиос. Запись пакета."]
+[Intro — bright synth pad swell, retro arp, drum machine click count-in like an 80s sci-fi opening; one diegetic line on the comm: "Хвост-9, это Гелиос. Передача номер..." cut off as the beat drops in]
 
-[Verse 1 — Male voice, Nox, weighted intimate restrained baritone, dry close-mic, almost spoken over sub-bass and sparse piano]
-Я не знаю который сейчас час
-Земное время не работает здесь
-На радаре одна точка
-Хвост-9
-Я знаю кто там
-Я знаю что она ждёт
-Я не могу написать тебе
-Но я могу писать в эфир
+[Verse 1 — Nox, weighted baritone with LIFTED PHRASING, almost happy delivery over bright synth-pop production, dry close-mic but casual cheerful]
+Мия привет
+Записываю короткое
+Ты как там
+У меня тут окей
+Окно в порядке
+Кофе ещё остался
+Дали новые координаты
+Всё по плану
 
-[Pre-chorus 1 — Nox, soft rise, ambient build, no drums yet]
-Программа не знает имён
-Программа знает каналы
-Я закодирую тебя
-В каждом байте телеметрии
+[Pre-chorus 1 — Nox, lift, synth bass enters, arp accelerates]
+Передаю обнимаю
+Тебя как обычно
+Тебя как обычно
+Тебя как обычно
+Скоро увидимся
 
-[Chorus 1 — Nox, soaring full voice with layered vocal stacks, cinematic drums enter, NO distorted guitars yet — soaring but minimal]
-Я говорю в эфир
-Я говорю в пустоту
-Это трансляция
-Которую никто не ждёт
-Я говорю в эфир
-Среди всех — тебе
-Кто поймает — поймает
-Ты поймаешь меня
+[Chorus 1 — Nox, BIG BRIGHT SYNTH-POP HOOK, soaring melody, layered male vocal stacks CHVRCHES-style but in baritone, full uplifting production, four-on-the-floor]
+Скоро дома
+Скоро дома
+Поставь чайник
+Я уже близко
+Скоро дома
+Скоро дома
+Не скучай
+Я скоро
 
-[Verse 2 — Nox, same intimate weight, now addressing Miya directly]
-Мия, если ты слышишь
-Это придёт с задержкой
-Которую я больше не считаю
-А ты сейчас ещё считаешь
-Мия, я смотрю в окно
-Здесь нет звёзд как ты их помнишь
-Здесь другое небо
-Здесь шум
+[Verse 2 — Nox, same bright production, more domestic detail, one subtle off-note in the harmony]
+Расскажу про звёзды
+Их тут нет как у тебя
+Тут другое небо
+Тебе понравится
+Сделаю фотку из окна
+Пришлю когда увидимся
+Я считаю дни
+До нашего совместного
 
-[Pre-chorus 2 — Nox, distorted guitars enter for the first time, controlled, rising]
-Программа не знает имён
-Но я знаю твоё
-Я закодирую тебя
-В каждой строке отчёта
+[Pre-chorus 2 — same lift, but with a subtle minor-key turn in the synth — barely noticeable]
+Передаю обнимаю
+Тебя как обычно
+Тебя как обычно
+Тебя как обычно
+Скоро увидимся
 
-[Chorus 2 — Nox, layered vocal stacks, now with melodic distorted guitar underpinning but controlled — not a stadium wall]
-Я говорю в эфир
-Я говорю в пустоту
-Это трансляция
-Которую никто не ждёт
-Я говорю в эфир
-Среди всех — тебе
-Кто поймает — поймает
-Ты поймаешь меня
+[Chorus 2 — full hook again, even bigger, more layered stacks]
+Скоро дома
+Скоро дома
+Поставь чайник
+Я уже близко
+Скоро дома
+Скоро дома
+Не скучай
+Я скоро
 
-[Bridge — TOTAL DROP, all instruments out, only dry intimate close-mic; this is Nox's replacement for the anchor phrase "Скоро вернусь"]
-Я обещал что скоро вернусь
-Это была ложь
-Которую мы оба простили друг другу
-Я не вернусь
-Но я не молчу
-Слышишь
-Я не молчу
+[Bridge — DROP to single thin synth pad, all production strips away, Nox alone in dry intimate close-mic baritone — for 15 seconds the mask falls]
+Ты меня слышишь
+Я понимаю что нет
+Но если слышишь
+Я тебе скажу одну вещь
+Я знаю что не вернусь
+И я говорю что вернусь
+Потому что иначе
+Я перестану говорить
+А если я перестану говорить
+Меня тут не будет совсем
 
-[Final Chorus — Nox, layered choir-style male vocal stacks, slight theatrical lift, restrained instrumental, not full stadium wall]
-Я говорю в эфир
-Я говорю в пустоту
-Это трансляция
-Которая дойдёт когда дойдёт
-Я говорю в эфир
-Среди всех — тебе
-Когда поймаешь — я уже дальше
-Но я уже сказал
+[Final Chorus — back to FULL BRIGHT SYNTH-POP, double the layers, soaring vocal stacks, four-on-the-floor crushes — knowing about the bridge makes this hit harder]
+Скоро дома
+Скоро дома
+Поставь чайник
+Я уже близко
+Скоро дома
+Скоро дома
+Не скучай
+Я скоро
+Скоро
+Скоро
+Скоро
 
-[Outro — sound of transmission button click, static rising, then ambient fade. Nox half-spoken, exhausted-calm]
-Передача
-Передача
+[Outro — bright synth fade, slowly degrading into static over five seconds, then a transmission click cuts everything to silence; one half-spoken word over the dying signal]
 Передача
 ```
 
 ## Структура и тайминг
 
-| Секция | Длина | Динамика |
+| Секция | Длина | Что звучит |
 |---|---|---|
-| Intro | 0:00–0:20 | Life-support hum + ambient pad + диегетическая фраза протокола |
-| Verse 1 | 0:20–1:00 | Sub-bass + sparse piano + dry intimate close-mic |
-| Pre-chorus 1 | 1:00–1:15 | Soft build, без барабанов |
-| Chorus 1 | 1:15–1:45 | Cinematic drums + layered vocal stacks, **без дисторшн-гитар** |
-| Verse 2 | 1:45–2:25 | Возврат к интимной фактуре, прямое обращение к Мие |
-| Pre-chorus 2 | 2:25–2:40 | **Дисторшн-гитары впервые входят**, контролируемо |
-| Chorus 2 | 2:40–3:10 | С гитарной подложкой, но не стеной |
-| Bridge | 3:10–3:35 | **Полный дроп**, только сухой голос |
-| Final Chorus | 3:35–4:00 | Choir-stacks, лёгкий lift, **не stadium** |
-| Outro | 4:00–4:10 | Звук кнопки передачи, статика, ambient fade |
+| Intro | 0:00–0:15 | Bright synth swell + retro arp + diegetic comms line + drum drop |
+| Verse 1 | 0:15–0:50 | Synth-pop production + casual cheerful baritone over kick |
+| Pre-chorus 1 | 0:50–1:05 | Lift, synth bass enters, arpeggios accelerate |
+| Chorus 1 | 1:05–1:35 | **Big bright synth-pop hook**, layered baritone stacks, four-on-the-floor |
+| Verse 2 | 1:35–2:10 | Same bright vibe, one subtle off-note in harmony |
+| Pre-chorus 2 | 2:10–2:25 | Lift с **тонким minor turn** в synth |
+| Chorus 2 | 2:25–2:55 | Bigger, более layered |
+| Bridge | 2:55–3:20 | **DROP до одного synth pad**, intimate baritone confession (15-секундное снятие маски) |
+| Final Chorus | 3:20–3:50 | Back to **full bright**, double layers, soaring stacks |
+| Outro | 3:50–4:00 | Bright synth fade → static → transmission click → "Передача" |
 
 ## Главный ход трека
 
-Трек строится как **зеркало к ПЕРВОЙ ТИШИНЕ**:
-- Мия там зовёт → тишина в ответ
-- NOX здесь отвечает → не зная, дойдёт ли
+**Архитектурная функция:**
+- ТРАНСЛЯЦИЯ — **обманчивая сторона альбома**. Самый светлый, самый поп, единственный мажорный, единственный без distorted guitars. На уровне звука — оазис посреди мрачного EP. На уровне смысла — это **самый страшный трек**, потому что лирика и звук не совпадают.
+- ТРАНСЛЯЦИЯ — **зеркало к СОРВУ (Эп.2)**. Оба не хотят чувствовать. Мия выбирает активное разрушение. NOX выбирает активное отрицание. Слушатель после СОРВУ узнаёт второй вариант той же защиты — это парная диагностика двух механизмов горя.
+- **Bridge — единственный момент EP, где NOX полностью снимает маску**. В РАЗРЫВе он эмоционален но в момент травмы. В СЛЕДе он через помехи как фрагмент памяти. Здесь — впервые он один, осознанно, и говорит правду. После bridge он возвращается в бодрый припев — это намеренно. Маска возвращается, но теперь и он, и слушатель знают, что за ней.
 
-И как **архитектурная подготовка к СЛЕДУ**:
-- Фраза "Программа не знает имён" впервые звучит здесь, в пре-припевах NOX
-- В СЛЕДе (Эп.6, куплет 2 NOX) она возвращается дословно — слушатель узнаёт её как старую фразу NOX, циркулирующую в гелиохвосте
-- Это даёт внутреннюю сшивку EP без объяснений
+**Драматургическая функция:**
+- В арке EP это **горизонтальный шаг** (после вертикального падения СОРВУ). Действия не двигают историю — двигает осознание того, что NOX тоже сломан. После ТРАНСЛЯЦИИ ФРАГМЕНТ становится возможным: они оба пытаются говорить, но никто не слышит.
+- **Финальный припев играет двойную игру.** Без bridge он был бы просто бодрый поп. С bridge — это **сознательная ложь**, которую NOX продолжает повторять. Слушатель не может слушать его невинно. Это самый эмоциональный финальный припев альбома, замаскированный под самый бодрый.
+- **Якорная фраза трека: "Я говорю что вернусь, потому что иначе я перестану говорить."** Это центральная философия трека. NOX — это голос, продолжающий говорить, чтобы существовать. Альтернатива — раствориться в эфире. Звучит один раз, в bridge. Не повторяется. Это делает её сильнее.
 
-Bridge — **переопределение обещания**. У Мии в ПЕРВОЙ ТИШИНЕ переопределяется тишина. Здесь у NOX — обещание вернуться. Каждый мост EP должен переопределять одну ключевую категорию.
+**Звуковой ход:**
+- **Контраст между weighted baritone и bright synth-pop production** — главный приём. Если бы NOX пел светлым тенором, дисонанса бы не было — это была бы просто поп-песня. Его baritone weight в бодрой музыке создаёт uncanny effect: голос звучит чуть-чуть "не так" для этого жанра. Это и есть **трещина в маске**, slышимая в каждой секунде трека, не только в bridge.
+- D major — единственный мажорный ключ в EP. Это **намеренный sonic outlier**. Слушатель, привыкший к minor keys остального альбома, мгновенно слышит, что этот трек "другой".
+- Four-on-the-floor synth kick — танцевальный паттерн в треке про экзистенциальный обман. Бодрая ритмика делает песню запоминаемой и пригодной для радио/playlist. Это **самый "коммерческий" трек EP** — намеренно, как страховка для попадания в плейлисты.
 
 ## Хуки (для соцсетей / тизеров)
 
-- "Я не могу написать тебе / Но я могу писать в эфир"
-- "Программа не знает имён / Программа знает каналы"
-- "Я говорю в эфир / Среди всех — тебе"
-- "Кто поймает — поймает / Ты поймаешь меня"
-- "Это придёт с задержкой / Которую я больше не считаю / А ты сейчас ещё считаешь"
-- "Я обещал что скоро вернусь / Это была ложь / Которую мы оба простили друг другу"
-- "Я не вернусь / Но я не молчу"
-- "Которая дойдёт когда дойдёт"
+- "Мия привет / Записываю короткое / Ты как там / У меня тут окей" — открывающая мундане
+- **"Скоро дома / Скоро дома / Поставь чайник / Я уже близко"** — главный припевный хук (запоминается с первого прослушивания)
+- "Расскажу про звёзды / Их тут нет как у тебя"
+- "Я считаю дни / До нашего совместного" — обрывающаяся фраза, "совместного" что? — слушатель достроит
+- "Передаю обнимаю / Тебя как обычно" — мундане ласковость
+- **"Я знаю что не вернусь / И я говорю что вернусь / Потому что иначе / Я перестану говорить"** — bridge confession, центральная фраза трека
+- "А если я перестану говорить / Меня тут не будет совсем"
 
-Особенно: "Я не вернусь / Но я не молчу" — мини-афоризм, прямая зеркальная пара к финальному "Молчит / Молчит" из ПЕРВОЙ ТИШИНЫ.
+Особенно: **"Я говорю что вернусь, потому что иначе я перестану говорить"** — главная философская фраза. Готова как одиночный хук для тизера, лучше всего как текст-overlay на видео.
+
+И в контрапункте к этому: **"Скоро дома / Скоро дома"** — повтор-припев. Запоминается как earworm. Можно использовать как анти-эпиграф к альбому в маркетинге.
 
 ## Что проверить после первой генерации
 
-- [ ] Куплет 1 — **полностью минимальный**: sub-bass, pad, sparse piano, dry close-mic. Никаких ранних гитар.
-- [ ] Припев 1 — soaring **без дисторшн-гитар**. Только барабаны и layered вокальные стеки. Если Suno подсунула гитарную стену в первый припев — пере-генерить (это поломает контраст с припевом 2).
-- [ ] Пре-припев 2 — момент входа гитар. Должен ощущаться как **сдвиг**, не плавный нарост.
-- [ ] Припев 2 — гитары присутствуют, но **не стена**. Контролируемо. Если выходит stadium-wall — снизить gain тегами или пометить "controlled, not stadium" жирнее.
-- [ ] Bridge — **полная тишина инструментов**, только сухой close-mic голос. Не "тихий рок", а реальный дроп до нуля.
-- [ ] Финальный припев — **lift, не slam**. Choir-stacks, но не пиковая интенсивность. Пик зарезервирован для СЛЕДа и РАЗРЫВа.
-- [ ] Голос NOX — baritone weighted, slight rasp, не bright tenor. Если Suno уплыла в светлый тенор — вернуть NOX_v1 Persona, проверить style-промпт.
-- [ ] Slow burn держится весь трек — нет случайного ускорения, BPM ~80 ровный half-time feel.
-- [ ] Outro — звук кнопки передачи реально читается как **диегетический клик** (не музыкальный эффект), потом статика, потом ambient fade.
-- [ ] Suno не подсунула гроулы/харши/американский акцент.
+- [ ] **Synth-pop, не EDM, не dubstep**. Если Suno уплыла в bass drop / wobble — пере-генерить с акцентом "warm analog synth-pop, NOT EDM, NOT dubstep, four-on-the-floor smooth kick"
+- [ ] **NOX звучит weighted baritone**, не bright tenor pop. Если Suno подсунула boy-band brightness — вернуть NOX_v1 Persona, проверить style. Контраст между его весом и светом музыки — главный приём трека.
+- [ ] **D major, бодрый мажор**. Если Suno в minor — пере-генерить, акцентировать "D major, uplifting, bright"
+- [ ] **Никаких живых барабанов и distorted гитар**. Это полностью электронный трек. Если появились — пере-генерить с усиленным exclude
+- [ ] **Bridge — реальный DROP**: один synth pad, вокал без лифта, intimate close-mic. Не "тихий поп", а именно обнажение. Это критический момент трека, без него финальный припев не работает.
+- [ ] **Финальный припев заметно полнее припева 2**. Doubled layers, soaring stacks. Если по интенсивности равны — пере-генерить.
+- [ ] **Никакого crowd noise**. Synth-pop легко тянет в "stadium chorus" — exclude должен это держать.
+- [ ] **Никаких female backing vocals**. Это NOX соло, женский вокал должен быть exclude'нут.
+- [ ] **Никаких автотюн-варблов**. Persona NOX_v1 не должна получить эффект.
+- [ ] Один subtle off-note в куплете 2 / minor turn в pre-chorus 2 — если Suno сделала их слишком явными (трек звучит уже мрачно к середине) — пере-генерить, эти штрихи должны быть **едва заметны**.
 
 ## Возможные правки
 
-- Если "Хвост-9" Suno проговаривает странно (например, "хвост дэвять") — заменить на "девятый хвост" или "точка девять", или вынести только в диегетическую фразу intro
-- Если "телеметрия" звучит сухо-технично и убивает интимность — заменить на "в каждом байте передачи" (теряется специфика, но звучит мягче)
-- Если "Кто поймает — поймает / Ты поймаешь меня" Suno интонирует невнятно из-за разговорной просодии — попробовать "Кто услышит — услышит / Ты услышишь меня"
-- Если bridge выйдет короче 20 секунд — добавить ещё одно эхо "Я не молчу" или вставить шёпот "Хвост-9, ты слышишь?"
-- Если outro "Передача / Передача / Передача" воспринимается слишком техническим — заменить третий повтор на "Отправлено" для смыслового движения
+- Если "Передаю обнимаю / Тебя как обычно" Suno интонирует неестественно (грамматика странная) — заменить на "Передаю обнимашки / Как обычно тебя" или "Обнимаю мысленно / Тебя как обычно". Сохранить мундане ласковость.
+- Если "До нашего совместного" звучит обрезанно (слушатель не достраивает "ужина") — добавить "ужина" явно: "До нашего совместного ужина". Теряется недосказанность, но яснее.
+- Если bridge слишком драматичен (NOX переигрывает в момент исповеди) — снизить эмоциональность, добавить "matter-of-fact, calm, accepting" в style для bridge. Должно быть **тихое признание**, не эмоциональный крик.
+- Если outro "Передача" звучит музыкально (как пропетое слово), а не как half-spoken — заменить на "Запись остановлена" или "Конец передачи" более диегетично
+- Если intro comms-фраза "Хвост-9, это Гелиос. Передача номер..." Suno не вытянет — заменить на короткое "Передача" в самом начале
+- Если по итогу финальный припев звучит **слишком радостно** и теряется горизонт ужаса — добавить в style "the final chorus carries the weight of the bridge — bright but knowing, not innocent"
+- Если bridge выходит короче 15 секунд — добавить ещё строку "Слышишь это / Я не молчу / Слышишь" перед финальным "Меня тут не будет совсем"
+
+## Альтернативные финалы (если v1 не сработает)
+
+**Опция A (текущая, рекомендуемая):** финальный припев крушит обратно в bright. Знание про bridge делает песню разорванной — слушатель чувствует обман, но NOX продолжает играть. Это **психологически жесточе**, чем коллапс.
+
+**Опция B (запасная):** после bridge финальный припев начинается bright, но **постепенно деградирует** — на каждом повторе "Скоро дома" синты немного фальшивят, голос немного срывается, ритм начинает плыть. К outro song распадается. Это **более кинематографично**, но менее выдержано — слушатель получает катарсис, а не дискомфорт.
+
+Если первая генерация не вытянет опцию A (Suno склонна к "happy ending" в bright синт-попе) — переключиться на B.
 
 ## Связь с альбомным аркой
 
-Этот трек — **третий эпизод** EP HELIOTAIL. Хронологически: после РАЗРЫВа (Эп.1) и ПЕРВОЙ ТИШИНЫ (Эп.2), перед ПОМЕХАМИ В ГОЛОВЕ (Эп.4).
+**Этот трек — третий эпизод** EP HELIOTAIL. После СОРВУ (Эп.2, Мия в ярости), перед ФРАГМЕНТом (Эп.4, параллельный дуэт).
 
 **Что трек устанавливает для остального EP:**
-- Голос NOX как контрастный к Мие (baritone weighted, slow burn, минимальный)
-- Якорь "Программа не знает имён" — для callback в СЛЕДе
-- Образ окна капсулы как мужского зеркала к женскому образу антенны
-- Кнопка передачи как ритуальный объект — параллель к ежедневному выключению антенны Мии в финале СЛЕДа
+- NOX как персонаж **способен к самообману**. Не как недостаток, а как защитный механизм. Это меняет понимание его молчания в РАЗРЫВе (он там в шоке) и его фрагментов в СЛЕДе (там — память, прошлый он).
+- Якорная фраза **"Я говорю что вернусь, потому что иначе я перестану говорить"** — фундаментальная философия NOX. Объясняет почему он продолжает транслировать (без адресата). Это фундамент для всего альбома: каждое его сообщение в гелиохвосте — это его существование.
+- Альбом **может быть бодрым на поверхности и страшным под**. Это сигнал слушателю: смотри глубже, не доверяй жанровому маркеру.
+- **Bridge-приём (полный дроп до сухого голоса)** — продолжается из РАЗРЫВа и СОРВУ. Узнаваемый структурный почерк EP.
 
 **Контраст по жанровой динамике в EP:**
-- РАЗРЫВ — пик интенсивности
-- ПЕРВАЯ ТИШИНА — slam на "ты не вернёшься"
-- **ТРАНСЛЯЦИЯ — slow burn, не slam** (намеренный провал интенсивности перед психологическим спадом Эп.4)
-- ПОМЕХИ В ГОЛОВЕ — атмосферный минимум
-- ФРАГМЕНТ — напряжённый дроп
-- СЛЕД — theatrical пик финала
+- РАЗРЫВ — peak alt-metal, B minor (heaviest)
+- СОРВУ — industrial-electronic, G minor (fastest)
+- **ТРАНСЛЯЦИЯ — bright synth-pop, D major (lightest, brightest, only major key, sonic outlier)**
+- ФРАГМЕНТ — alt-rock с электронкой, E minor (structural twist)
+- СЛЕД — theatrical alt-metal, F# minor (peak)
+
+ТРАНСЛЯЦИЯ — **единственный мажорный трек EP**, единственный synth-pop, единственный с four-on-the-floor poppy kick. Sonic outlier по нескольким измерениям. Это **главный сюрприз альбома** — слушатель не ждёт этого после РАЗРЫВа и СОРВУ.
+
+**Связи назад и вперёд:**
+- "Скоро дома" — реверс к "Скоро вернусь" из РАЗРЫВа (там — последнее, что он сказал перед стыковкой; здесь — повтор-мантра, которой он живёт)
+- "Я знаю что не вернусь" — впервые произнесено явно. В РАЗРЫВе оба знали, но не говорили. Здесь NOX произносит — в bridge, в самом тихом месте трека.
+- "Передача" — слово-якорь, появляется в outro. В ФРАГМЕНТЕ (Эп.4) слово "передача" появится с другой стороны — как объект, который Мия записывает / повторяет.
 
 Полная карта эпизодов — в [story-bible.md](./story-bible.md).

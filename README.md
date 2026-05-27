@@ -5,7 +5,7 @@
 Русскоязычный modern progressive alt / theatrical alt-metal.
 
 **Альбомы:**
-- **ХВОСТ-9** (дебютный EP, 6 эпизодов) — разрыв нейро-линка и принятие. Тексты готовы ✅
+- **ХВОСТ-9** (дебютный EP, **5 эпизодов** — v2, genre whiplash) — разрыв нейро-линка и принятие. Тексты v2 готовы ✅
 - **ГЕЛИОС** (второй EP, 6 эпизодов, prequel) — как они дошли до миссии, греческая трагедия. Story bible готов, тексты TBD
 
 ## Структура
@@ -36,15 +36,15 @@
 
 Каждый альбом — своя подпапка со story-bible, треками и album-specific материалами. Нумерация треков по эпизодам сюжетной арки альбома.
 
-#### [01-khvost-9/](./04-albums/01-khvost-9/) — Альбом #1: ХВОСТ-9 ✅
+#### [01-khvost-9/](./04-albums/01-khvost-9/) — Альбом #1: ХВОСТ-9 ✅ (v2 — 5 треков, genre whiplash)
 
-- [story-bible.md](./04-albums/01-khvost-9/story-bible.md) — сценарий альбома: мир, 6 эпизодов, мотивы
-- [01-razryv.md](./04-albums/01-khvost-9/01-razryv.md) — дуэт, открывающий, пик интенсивности
-- [02-pervaya-tishina.md](./04-albums/01-khvost-9/02-pervaya-tishina.md) — Мия соло, момент удара
-- [03-translyaciya.md](./04-albums/01-khvost-9/03-translyaciya.md) — NOX соло, slow burn
-- [04-pomekhi-v-golove.md](./04-albums/01-khvost-9/04-pomekhi-v-golove.md) — Мия соло, атмосферный минимум
-- [05-fragment.md](./04-albums/01-khvost-9/05-fragment.md) — дуэт через статику, tension/drop
-- [06-sled.md](./04-albums/01-khvost-9/06-sled.md) — дуэт, финал, theatrical пик
+- [story-bible.md](./04-albums/01-khvost-9/story-bible.md) — сценарий альбома: мир, 5 эпизодов, мотивы
+- [01-razryv.md](./04-albums/01-khvost-9/01-razryv.md) — дуэт, открывающий, peak alt-metal (heaviest, B minor)
+- [02-sorvu.md](./04-albums/01-khvost-9/02-sorvu.md) — Мия соло, **industrial rage** (fastest, G minor, ~135 BPM)
+- [03-translyaciya.md](./04-albums/01-khvost-9/03-translyaciya.md) — NOX соло, **обманчиво-светлый synth-pop** (D major, единственный мажор)
+- [04-fragment.md](./04-albums/01-khvost-9/04-fragment.md) — **параллельный дуэт**, hard L/R panning, alt-rock с электронкой (E minor)
+- [05-sled.md](./04-albums/01-khvost-9/05-sled.md) — дуэт, финал, theatrical пик (F# minor)
+- [_archive/](./04-albums/01-khvost-9/_archive/) — вырезанные из v1: ПЕРВАЯ ТИШИНА, ПОМЕХИ В ГОЛОВЕ
 
 #### [02-gelios/](./04-albums/02-gelios/) — Альбом #2: ГЕЛИОС (в разработке)
 
@@ -69,8 +69,8 @@
 - [x] Мастер-промпт NOX
 - [x] Имя проекта-дуэта — HELIOTAIL (предварительно, нужна финальная проверка занятости)
 - [x] Voice-профили для Suno (Мия + NOX + дуэт) — спецификация
-- [x] Story bible: мир, 6 эпизодов, сквозные мотивы
-- [x] Все 6 треков написаны (тексты + Style-промпты + структура + чеклисты)
+- [x] Story bible: мир, 6 эпизодов v1 → переработан в 5 эпизодов v2 (genre whiplash)
+- [x] Все 5 треков v2 написаны (РАЗРЫВ ✅ + СОРВУ ✏️ + ТРАНСЛЯЦИЯ v2 ✏️ + ФРАГМЕНТ v2 ✏️ + СЛЕД ✅)
 - [x] Кастинг-сессия голосов проведена, варианты выбраны
 - [x] Имя альбома выбрано: ХВОСТ-9 (нужна проверка занятости на Spotify/Apple Music)
 - [ ] Создать Suno Persona MIYA_v1 из выбранного варианта
@@ -81,7 +81,7 @@
 - [ ] Эталонный портрет NOX в Nano Banana — сгенерировать 6-8 раз, отобрать canonical
 - [ ] Зафиксировать пианинный мотив EP (короткая фигура 3-4 ноты, лейтмотив)
 - [ ] Финализировать порядок релиза (по нарративу или сингл-стратегия)
-- [ ] Сгенерировать все 6 треков в Suno с залоченными Personas
+- [ ] Сгенерировать все 5 треков v2 в Suno с залоченными Personas
 - [ ] Дистрибьютор и оформление прав
 
 ## Следующий шаг
