@@ -65,14 +65,19 @@ Suno на выходе даёт сжатый микс с типовыми про
 
 ### Инструменты
 
-- **AI-мастеринг (быстро, для AI-музыки норм):**
-  - LANDR — простой, $2-5 за трек
-  - eMastered — лучше звучит, дороже
-  - CloudBounce — средний вариант
-- **Полу-AI:** iZotope Ozone (auto-режим + ручные правки)
-- **Вручную:** FabFilter Pro-L 2 + Pro-Q 3 + Pro-MB
+> **⚠️ AI-policy в 2026:** многие облачные mastering-сервисы закрываются для AI-музыки. **eMastered официально запретил** AI tracks (text-to-music, voice cloning, любой underlying AI audio) — не использовать. LANDR пока принимает, но политика может измениться. Безопасный путь — **mastering локально без третьих сторон**.
 
-Для AI-музыки **LANDR/eMastered вполне достаточно** на старте.
+- **Локально (recommended, без политических рисков):**
+  - **FL Studio native** — Maximus + Fruity Limiter + YouLean Loudness Meter (free). 5-10 минут на трек, безлимит. Дефолт для HELIOTAIL.
+  - **iZotope Ozone 11 Master Assistant** ($249 разово, on-device, без облака)
+- **Облачные с проверкой TOS (риск политики):**
+  - LANDR — $2-5/трек, *на 2026-05 принимает с AI-disclosure, проверять TOS перед загрузкой*
+  - CloudBounce — средний вариант, AI-friendly
+  - AI Mastering (aimastering.com) — built для AI-музыки, должен принимать
+- **Не использовать в 2026 для HELIOTAIL:** eMastered (заблокировано для AI)
+- **Вручную (если станет серьёзно):** FabFilter Pro-L 2 + Pro-Q 3 + Pro-MB
+
+Для HELIOTAIL **FL Studio native master достаточно** — никаких сторонних сервисов не нужно.
 
 ## Этап 4 — Метаданные
 
@@ -99,23 +104,44 @@ Suno на выходе даёт сжатый микс с типовыми про
 
 ### Дистрибьюторы
 
-- **DistroKid** — дёшево ($23/год безлимит), быстро, не лучший в плане поддержки
-- **Amuse** — бесплатный тариф, но 100% роялти только в платном
-- **Believe / TuneCore** — дороже, но лучше для растущих артистов
-- **Ditto Music** — средний вариант
+**Выбран для HELIOTAIL — DistroKid:**
+- **Musician ($23/год)** — безлимитные загрузки, базовый. Хватит на весь HELIOTAIL.
+- **Musician Plus ($39/год)** — добавляет Hyperfollow (free landing-страницы под pre-save), Customizable Label Name (`HELIOTAIL Records`), Legacy royalties. Для проекта с маркетинговыми амбициями стоит +$16.
+- Официально принимает AI-музыку с disclosure (галочка при загрузке)
+- ISRC коды генерит сам
+
+**Альтернативы (если DistroKid не зайдёт):**
+- **Amuse** — бесплатный тариф, но 100% роялти только в платном. Принимает AI с disclosure.
+- **CD Baby** — принимает AI с disclosure. Pay-per-release или Pro subscription.
+- **Bandcamp** — direct upload, AI ок без бюрократии. Хорош для прямых продаж/B-side
+- **TuneCore** — дороже, accept AI с disclosure
+- **Believe / AWAL** — становятся selective против AI, **избегать в 2026**
 
 ### Площадки покрытия
 
 Через любого крупного дистрибьютора — Spotify, Apple Music, YT Music, TIDAL, Deezer, Amazon Music, Яндекс.Музыка, VK Музыка, Boom, SberZvuk, плюс десятки региональных.
 
-### AI-policy в 2026
+### AI-policy в 2026 (площадки и сервисы)
 
-- Spotify: разрешает AI-контент, но активно чистит "AI-спам" и накрутку
-- Apple Music: требует human involvement (текст/идея — человек)
-- YouTube Music: требует AI-disclosure для контента, сгенерированного целиком
-- Российские площадки: пока мягче, но это меняется
+**Стриминговые площадки:**
+- **Spotify** — разрешает AI с disclosure, активно чистит "AI-спам" и накрутку
+- **Apple Music** — требует human involvement (текст/идея — человек). У HELIOTAIL тексты и концепция Андрея → проходит
+- **YouTube Music** — требует AI-disclosure для контента, сгенерированного целиком
+- Российские площадки (Яндекс.Музыка, VK Музыка, SberZvuk, Boom) — пока мягче, но это меняется
 
-**Правило:** меньше треков, но с обработкой и мастерингом — заходит лучше, чем заливать пачками.
+**Дистрибьюторы:** см. секцию выше — DistroKid дефолт, AWAL/Believe избегать
+
+**Mastering сервисы (тренд 2026 — закрытие AI):**
+- ❌ eMastered — официально запретил AI-музыку
+- ⚠️ LANDR — пока принимает, но политика может измениться
+- ✅ FL native / iZotope Ozone — локально, никаких политик
+
+**HELIOTAIL подпадает под disclosure:**
+- Музыка генерируется в Suno (text-to-music) → ставить `Yes` на text-to-music
+- Вокал Мии + NOX из Suno (AI voice) → ставить `Yes` на AI voice generation
+- Тексты и концепция Андрея — human-written → это **снимает Apple Music ограничение** про human involvement
+
+**Правило:** меньше треков, но с обработкой и мастерингом — заходит лучше, чем заливать пачками. **И никогда не пытаться скрыть AI-природу** — площадки вычисляют автоматически и могут заблокировать аккаунт за ложную декларацию.
 
 ## Этап 7 — Продвижение (минимум)
 

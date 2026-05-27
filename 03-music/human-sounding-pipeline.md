@@ -4,6 +4,8 @@
 
 > Этот документ — про **post-Suno работу**: как из generated MP3 сделать трек, который не сразу выдаёт себя как AI. Если нужен общий путь от идеи до стриминга — смотри [pipeline.md](pipeline.md).
 
+> **DAW-варианты:** step-by-step pipeline дан параллельно для **REAPER** (универсальный, $60) и **FL Studio** (mac-native, $199 Producer). Главные принципы (генерация, stem separation, human-имитация) DAW-agnostic, отличия — в routing и native плагинах. Выбирай раздел под свой DAW.
+
 ## Реалистичный прогноз
 
 Не для всех треков «неотличимо» одинаково достижимо. Зависит от инструментации:
@@ -81,7 +83,31 @@
 | Resonance | **Soothe2** | $210 | критично для AI-вокала |
 | Reverb | **Valhalla VintageVerb** | $50 | лучший reverb за свои деньги |
 
-## Step-by-step для bedroom voice-memo трека
+### FL Studio native plugins (если уже куплен FL Producer Edition+)
+
+FL Studio Producer Edition ($199 mac, lifetime free updates) включает почти весь нужный стек для AI cleanup. Если уже куплен — почти ничего дополнительно покупать не надо.
+
+| Категория | FL native плагин | Замена для |
+|---|---|---|
+| DAW | **FL Studio** ($199 Producer / $499 Signature, mac-native) | REAPER |
+| Cleanup / denoise / declick | **Edison** (built-in аудио-редактор) | базовый iZotope RX |
+| Stem separation (FL 21+) | **Edison → Tools → AI Stem Separation** | UVR |
+| EQ | **Fruity Parametric EQ 2** | TDR Nova / FabFilter Pro-Q |
+| Compression | **Fruity Compressor / Maximus (multiband)** | TDR Kotelnikov / FabFilter Pro-C |
+| Pitch correction | **NewTone** | Melodyne / Graillon |
+| Saturation | **Soundgoodizer / Fruity Waveshaper** | Klanghelm IVGI / Decapitator |
+| Reverb | **Fruity Reeverb 2 / Fruity Convolver** | Valhalla VintageVerb |
+| Limiter | **Fruity Limiter** | TDR Limiter 6 / FabFilter Pro-L 2 |
+| Multiband | **Maximus** | FabFilter Pro-MB |
+| Stereo imaging | **Fruity Stereo Shaper** | (стандартный) |
+
+**Что докупать вне FL:** ничего обязательного. Опционально free VST3 — Valhalla Supermassive (reverb), TDR Nova (dynamic EQ против резонансов AI-вокала — critical), YouLean Loudness Meter (LUFS analysis). Все ставятся в FL без проблем.
+
+**Минусы FL для AI-cleanup:**
+- Spectral editing в Edison грубее iZotope RX (для AI-cleanup хватит на 90% задач)
+- Чуть менее удобная пакетная обработка (REAPER скриптуется на Lua, в FL — Patcher для цепочек)
+
+## Step-by-step (REAPER) для bedroom voice-memo трека
 
 (Используя «первый закат» как пример. Для других форматов — аналогично с корректировками)
 
@@ -191,6 +217,100 @@ Target loudness:
 **Для intimate трека (как «первый закат»):** целиться в **–16 LUFS**, оставит динамику и дыхание. Не пушить.
 
 **Лимитер:** TDR Limiter 6 GE (free) или FabFilter Pro-L 2 ($169).
+
+## Step-by-step (FL Studio) для bedroom voice-memo трека
+
+Параллель к REAPER-варианту выше, для тех у кого FL Studio (mac-native, рекомендованный DAW проекта, если уже куплен). Используем «первый закат» как пример.
+
+### Шаг 1 — Suno генерация
+
+Аналогично REAPER-варианту выше: минимум 4 версии, отбор по конкретным моментам (бридж проинтонирован чисто? пианино без щелчков? шёпот не сорвался в полное пение?).
+
+### Шаг 2 — Stem separation
+
+- **FL 21+:** `Edison → Tools → AI Stem Separation` → output WAV в проектную папку
+- **FL 20 или ниже / нет встроенного AI:** [UVR](https://github.com/Anjok07/ultimatevocalremovergui) отдельно (модель `MDX-Net Inst HQ 3`), импортируешь `vocals.wav` и `instrumental.wav` в FL как Audio Clips
+
+### Шаг 3 — Mixer routing
+
+```
+Mixer:
+  Track 1 — VOCAL      → Master
+  Track 2 — PIANO      → Master
+  Track 3 — TEXTURES   → Master  (room tone / breath / human-имитация)
+  Track 4 — REVERB BUS → Master  (send-эффект, sidechain'и сюда vocal + piano)
+  Master               → output
+```
+
+Грузишь стемы в **Playlist** как Audio Clips. Каждый клип route'ишь на свой Mixer track: правый клик на клипе → **Track properties → Route to this track only**.
+
+### Шаг 4 — Vocal chain (Mixer Track 1)
+
+| Слот | Плагин | Параметры | Зачем |
+|---|---|---|---|
+| 1 | **Edison** (insert mode) | Tools → Clean up → Noise reduction, learn 0.5s тишины из начала, apply 8-10 dB | срезать AI-шипение |
+| 2 | **Fruity Parametric EQ 2** | HPF 80 Hz / cut –3 dB at 250 Hz (мутность) / shelf +1 dB at 12 kHz (воздух) | базовый тон |
+| 3 | **Fruity Multiband Compressor** или **Maximus** | preset «Vocal de-esser», 5-8 kHz зону зажать | замена платного de-esser'а |
+| 4 | **TDR Nova** (free VST3) | dynamic mode, найти резонанс 2-4 kHz, gain reduction 3-5 dB | замена Soothe2 — critical против «пластика» AI |
+| 5 | **Fruity Compressor** | ratio 4:1, attack 20ms, release 200ms, threshold по слуху на –6 dB | выравнивание динамики |
+| 6 | **Send** → Reverb bus (Track 4) | send level ~12% | пространство |
+
+### Шаг 5 — Piano chain (Mixer Track 2)
+
+**Вариант B — обрабатываем Suno-пианино (без MIDI-клавы):**
+
+| Слот | Плагин | Параметры | Зачем |
+|---|---|---|---|
+| 1 | **Fruity Parametric EQ 2** | HPF 100 Hz / low-shelf –2 dB at 8 kHz | мягкость |
+| 2 | **Klanghelm IVGI** (free VST3) | drive 25% | tape warmth, убирает «AI-стерильность» |
+| 3 | **Fruity Chorus** | depth 1-2% only | едва ощутимый live feel |
+| 4 | **Send** → Reverb bus | send level ~18% | больше пространства чем у вокала |
+
+**Вариант A — переиграть самому (если есть MIDI-клава, *самый сильный апгрейд*):**
+
+- В новом MIDI channel: **Spitfire LABS Soft Piano** (free VST3)
+- F minor, 70 BPM, аккорды Fm / Ab / Db / Eb
+- 4 паттерна: куплеты / припев / бридж (один зависающий) / outro
+- Suno-пианино заглушить до –18 dB как texture layer (или совсем выкинуть)
+
+### Шаг 6 — Reverb bus (Mixer Track 4)
+
+- **Valhalla Supermassive** (free VST3) на insert
+- Preset «Skylab» или вручную: size 30%, decay 1.2s, mix 100% (sends контролируют объём)
+- **НЕ plate, НЕ hall** — нужен intimate room
+- Альтернатива на native FL: **Fruity Convolver** + IR-семпл реальной комнаты (можно скачать free IR библиотеки)
+
+### Шаг 7 — Human-имитация (Mixer Track 3)
+
+Минимум 3 элемента, **обязательно** room tone.
+
+| Элемент | Где взять / как сделать в FL | Уровень |
+|---|---|---|
+| **Breath sounds** | Запиши вдохи на телефон, импортируй как Audio Clip между фразами | –24 dB |
+| **Room tone** | Запиши 30 сек тишины в комнате, зациклишь Audio Clip под весь трек | –50 dB |
+| **Micro-pitch jitter** | **NewTone** (FL native) на vocal track → расстроить идеальные ноты ±5 cents | едва заметно |
+| Mouth clicks (опц.) | Edison → Sample → лёгкие клики, импорт между фразами | –30 dB |
+| AC hum (опц.) | Сгенерируй sine 50 Hz в Edison, очень тихо фоном | –55 dB |
+| Pedal noise (опц., если играешь сам) | Записи клика педали отдельно | –35 dB |
+
+**Главное правило (повторяется из REAPER-варианта):** между фразами **никогда не должно быть цифровой тишины 0 dB**. Это #1 маркер AI. Room tone льёт под весь трек.
+
+### Шаг 8 — Master bus
+
+| Слот | Плагин | Параметры |
+|---|---|---|
+| 1 | **Fruity Parametric EQ 2** | HPF 60 Hz, low-shelf –1 dB at 200 Hz (мутность), air shelf +1 dB at 10 kHz (осторожно — может выявить AI-артефакты) |
+| 2 | **Maximus** | preset «Mastering — gentle», ratio 2:1, slow attack, gentle 1-2 dB сжатия |
+| 3 | **Fruity Limiter** | ceiling –1.0 dB, target gain by ear |
+| 4 | **YouLean Loudness Meter** (free VST3, последним) | мониторишь integrated LUFS → target **–16 LUFS** для intimate трека |
+
+**Loudness target для intimate трека:** –16 LUFS (не пушить до –14, потеряешь дыхание и динамику).
+
+### Шаг 9 — Export
+
+- File → Export → MP3 (для соцсетей) и WAV 24-bit (для дистрибьютора)
+- True peak проверить — не выше –1 dB
+- Прогнать через Quality check (см. ниже)
 
 ## Quality check — критерии «неотличимо»
 
