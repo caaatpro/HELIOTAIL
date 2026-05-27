@@ -39,7 +39,7 @@ Suno на выходе даёт сжатый микс с типовыми про
 
 ### Инструменты
 
-- **DAW:** Reaper (дёшево), Studio One, Ableton, FL Studio
+- **DAW:** Logic Pro X (mac-native, выбран для HELIOTAIL), альтернативы — Reaper / Studio One / Ableton
 - **Плагины-минимум:** FabFilter Pro-Q + Pro-C + Pro-DS, или бесплатные TDR Nova / ReaPlugs
 
 ## Этап 3 — Мастеринг
@@ -68,8 +68,8 @@ Suno на выходе даёт сжатый микс с типовыми про
 > **⚠️ AI-policy в 2026:** многие облачные mastering-сервисы закрываются для AI-музыки. **eMastered официально запретил** AI tracks (text-to-music, voice cloning, любой underlying AI audio) — не использовать. LANDR пока принимает, но политика может измениться. Безопасный путь — **mastering локально без третьих сторон**.
 
 - **Локально (recommended, без политических рисков):**
-  - **FL Studio native** — Maximus + Fruity Limiter + YouLean Loudness Meter (free). 5-10 минут на трек, безлимит. Дефолт для HELIOTAIL.
-  - **iZotope Ozone 11 Master Assistant** ($249 разово, on-device, без облака)
+  - **Logic Pro X Mastering Assistant** — один клик → Analyze → 3 слайдера → Bounce. 5 минут на трек, безлимит. **Дефолт для HELIOTAIL** (2026-05-28+, выбран Андреем).
+  - **iZotope Ozone 11 Master Assistant** ($249 разово, on-device, без облака) — альтернатива если нет mac
 - **Облачные с проверкой TOS (риск политики):**
   - LANDR — $2-5/трек, *на 2026-05 принимает с AI-disclosure, проверять TOS перед загрузкой*
   - CloudBounce — средний вариант, AI-friendly
@@ -77,7 +77,7 @@ Suno на выходе даёт сжатый микс с типовыми про
 - **Не использовать в 2026 для HELIOTAIL:** eMastered (заблокировано для AI)
 - **Вручную (если станет серьёзно):** FabFilter Pro-L 2 + Pro-Q 3 + Pro-MB
 
-Для HELIOTAIL **FL Studio native master достаточно** — никаких сторонних сервисов не нужно.
+Для HELIOTAIL **Logic Pro Mastering Assistant достаточно** — никаких сторонних сервисов не нужно.
 
 ## Этап 4 — Метаданные
 
@@ -134,7 +134,7 @@ Suno на выходе даёт сжатый микс с типовыми про
 **Mastering сервисы (тренд 2026 — закрытие AI):**
 - ❌ eMastered — официально запретил AI-музыку
 - ⚠️ LANDR — пока принимает, но политика может измениться
-- ✅ FL native / iZotope Ozone — локально, никаких политик
+- ✅ Logic Pro Mastering Assistant / iZotope Ozone — локально, никаких политик
 
 **HELIOTAIL подпадает под disclosure:**
 - Музыка генерируется в Suno (text-to-music) → ставить `Yes` на text-to-music
