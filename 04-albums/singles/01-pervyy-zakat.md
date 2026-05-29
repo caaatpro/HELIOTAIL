@@ -34,37 +34,38 @@
 ## Style для Suno (copy-paste в поле Style — только позитив)
 
 ```
-Solo female voice + felt piano only. Bedroom demo recording, voice
-memo aesthetic, lo-fi intimate singer-songwriter. F minor, ~70 BPM, slow.
-Russian. ASMR-close mic, breath audible between phrases, no vocal
-projection, vulnerable matter-of-fact delivery, like a voice memo
-recorded alone at night, no theatrical phrasing. Sparse warm felt piano
-(muted hammers, soft attack) — direct recording, dry, no room reverb.
-ONE voice the entire track, no doubling, no overdubs. Voice stays solo
-through outro — no choir entry, no harmonies at the end, ends in long
-piano fade and silence. Total length 3:10 to 3:25, intimate single
-with breathing space between sections. Piano + voice only.
+Solo female voice, felt piano and very sparse fingerpicked acoustic guitar. Intimate late-night bedroom recording, voice memo aesthetic. Russian. F minor, ~70 BPM.
+
+Verses are whispered very close to the microphone with audible breath and restrained emotion. The singer sounds emotionally numb, trying to stay composed. Choruses become more melodic and emotionally exposed, with longer sustained vowels and aching phrasing, but never fully breaking into loud pop belting.
+
+Warm felt piano remains the emotional core. Very subtle fingerstyle guitar enters gradually, mostly soft high-string plucks and delicate harmonics, adding movement and fragile alternative indie texture.
+
+Slight rawness, imperfect human timing, restrained emotional tension, not polished. Dry intimate recording with minimal ambience.
+
+No drums, no synths, no pads, no cinematic orchestra. One single vocal take through the entire song.
+
+Atmosphere: alone in orbit at sunset, trying not to cry.
 ```
 
 ## Exclude Styles (copy-paste в поле Exclude Styles в More Options)
 
 ```
-drums, bass, synth, pad, strings, guitar, electronic, second voice, backing vocals, choir, harmonies, doubling, crowd, audience, cheering, live recording, room reverb, applause, sing-along, festival, arena, autotune, screams, growls, rap, American accent, alt-metal, upbeat, theatrical phrasing, vibrato, full singing voice
 ```
 
 ## Лирика (compact, copy-paste в Lyrics field)
 
 ```
-[Intro — solo felt piano only, very short 2-3 seconds, single soft chord, dry close-mic]
+[Intro — solo felt piano only, very short 2–3 seconds, single soft chord, dry close-mic]
 
 [Verse 1 — ASMR-close whisper, breath audible, piano only behind]
-В иллюминаторе бледный свет
+В иллюминаторе тает свет
 Солнце далёкое и маленькое
 Смотрю как оно уходит
 Первый раз одна
+
 В стекле отражение
 Только моё
-Это закат на моих глазах
+Это закат в моих глазах
 В которых раньше был и ты
 
 [Pre-chorus — same intimate whisper, piano dynamics slightly up]
@@ -78,32 +79,40 @@ drums, bass, synth, pad, strings, guitar, electronic, second voice, backing voca
 Который не с кем разделить
 Это первый закат
 Который не для двоих
+
 Я смотрю как уходит свет
 Я смотрю как остаюсь
 Это первый закат
 Только мой
 
 [Verse 2 — back to ASMR whisper, piano only, very sparse]
-Стекло холодное у щеки
+Касаюсь холодного стекла
+Дыхание быстро исчезает
 Скоро будет ночь
-Не знаю как ночью буду одна
+И я не знаю
+Как теперь засыпать
+
 Никогда не была одна
+
 Система гасит свет
+Тихо щёлкает где-то внутри
 Пора уже закрыть глаза
 Завтра новый виток
-А я ещё не понимаю
+А я всё ещё не понимаю
+Как остаться здесь без тебя
 
 [Bridge — SPOKEN, barely whispered, single piano chord holds]
-Я хотела сказать
-Смотри
-И вспомнила
-Что некому
+Я почему-то хочу сказать
+Смотри как красиво
+И каждый раз замолкаю
+Потому что тебя здесь нет
 
 [Chorus 2 — ONE solo voice (NO doubling), piano only, slightly fuller piano dynamics, NO drums, NO crowd]
 Это первый закат
 Который не с кем разделить
 Это первый закат
 Который не для двоих
+
 Я смотрю как уходит свет
 Я смотрю как остаюсь
 Это первый закат
@@ -113,10 +122,13 @@ drums, bass, synth, pad, strings, guitar, electronic, second voice, backing voca
 [Outro — SPOKEN delivery, slow pace with breath between lines, piano fades to silence very slowly, solo voice, last line truncated with long pause]
 Свет ушёл
 Я ещё здесь
+
 Свет ушёл
 Я ещё здесь
+
 Свет ушёл
 Я ещё здесь
+
 Я ещё
 Здесь
 
